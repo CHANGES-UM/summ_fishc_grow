@@ -1,0 +1,547 @@
+subject_id,URL 4,URL 8,task,data.value
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,Begin Date - Month,[{'June': 3}]
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,Begin Date - Day,[{'13': 3}]
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,Begin Date - Year,[{'1996': 3}]
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,End Date - Month,[{'June': 3}]
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,End Date - Day,[{'15': 3}]
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,End Date - Year,[{'1996': 3}]
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,Begin Date - Month,[{'June': 3}]
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,Begin Date - Day,[{'13': 3}]
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,End Date - Month,[{'June': 3}]
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,End Date - Day,[{'15': 3}]
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,End Date - Year,[{'1995': 3}]
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,Begin Date - Month,[{'June': 3}]
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,Begin Date - Day,[{'20': 3}]
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,End Date - Month,[{'June': 3}]
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,End Date - Day,[{'22': 3}]
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,End Date - Year,[{'1995': 3}]
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,Begin Date - Month,[{'June': 2}]
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,Begin Date - Day,[{'20': 2}]
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,Begin Date - Year,"[{'1995': 2, 'None': 1}]"
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,End Date - Month,[{'June': 2}]
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,End Date - Day,[{'22': 2}]
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,End Date - Year,"[{'1995': 2, 'None': 1}]"
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,Begin Date - Month,"[{'August': 2, 'March': 1}]"
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,Begin Date - Day,"[{'22': 2, '27': 1}]"
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,Begin Date - Year,"[{'1995': 2, '1996': 1}]"
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,End Date - Month,
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,End Date - Day,
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,End Date - Year,[{'None': 3}]
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,Begin Date - Month,[{'June': 3}]
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,Begin Date - Day,[{'6': 3}]
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,End Date - Month,"[{'June': 2, 'Same as Begin Date (Month)': 1}]"
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,End Date - Day,[{'8': 3}]
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,End Date - Year,"[{'1995': 2, 'Same as Begin Date (Year)': 1}]"
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,Begin Date - Month,[{'June': 3}]
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,Begin Date - Day,[{'6': 3}]
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,End Date - Month,[{'June': 3}]
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,End Date - Day,[{'8': 3}]
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,End Date - Year,[{'1995': 3}]
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,Begin Date - Month,[{'June': 3}]
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,Begin Date - Day,[{'6': 3}]
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,End Date - Month,"[{'June': 2, 'Same as Begin Date (Month)': 1}]"
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,End Date - Day,[{'10': 3}]
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,End Date - Year,"[{'1994': 2, 'Same as Begin Date (Year)': 1}]"
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,Begin Date - Month,[{'April': 3}]
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,Begin Date - Day,[{'27': 3}]
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,Begin Date - Year,[{'1990': 3}]
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,End Date - Month,[{'May': 3}]
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,End Date - Day,[{'2': 3}]
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,End Date - Year,[{'1990': 3}]
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,Begin Date - Month,[{'March': 4}]
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,Begin Date - Day,[{'28': 4}]
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,Begin Date - Year,[{'1995': 4}]
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,End Date - Month,"[{'March': 3, 'Same as Begin Date (Month)': 1}]"
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,End Date - Day,[{'29': 4}]
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,End Date - Year,"[{'1995': 3, 'Same as Begin Date (Year)': 1}]"
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,Begin Date - Month,[{'September': 3}]
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,Begin Date - Day,[{'21': 3}]
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,End Date - Month,
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,End Date - Day,
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,End Date - Year,[{'None': 3}]
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,Begin Date - Month,[{'June': 3}]
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,Begin Date - Day,[{'20': 3}]
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,End Date - Month,[{'June': 3}]
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,End Date - Day,[{'22': 3}]
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,End Date - Year,[{'1995': 3}]
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,Begin Date - Month,[{'June': 3}]
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,Begin Date - Day,[{'5': 3}]
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,Begin Date - Year,[{'1992': 3}]
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,End Date - Month,"[{'June': 2, 'Same as Begin Date (Month)': 1}]"
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,End Date - Day,[{'6': 3}]
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,End Date - Year,"[{'1992': 2, 'Same as Begin Date (Year)': 1}]"
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,Begin Date - Month,[{'September': 3}]
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,Begin Date - Day,[{'3': 3}]
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,Begin Date - Year,[{'1991': 3}]
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,End Date - Month,[{'October': 2}]
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,End Date - Day,[{'1': 2}]
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,End Date - Year,"[{'1991': 2, 'None': 1}]"
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,Begin Date - Month,[{'July': 3}]
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,Begin Date - Day,[{'12': 3}]
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,Begin Date - Year,[{'1990': 3}]
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,End Date - Month,
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,End Date - Day,
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,End Date - Year,[{'None': 3}]
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,Begin Date - Month,[{'August': 3}]
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,Begin Date - Day,[{'21': 3}]
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,Begin Date - Year,[{'1990': 3}]
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,End Date - Month,
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,End Date - Day,
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,End Date - Year,[{'None': 3}]
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,Begin Date - Month,[{'July': 3}]
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,Begin Date - Day,[{'27': 3}]
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,Begin Date - Year,[{'1990': 3}]
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,End Date - Month,
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,End Date - Day,
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,End Date - Year,[{'None': 3}]
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,Begin Date - Month,[{'September': 3}]
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,Begin Date - Day,[{'14': 3}]
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,Begin Date - Year,[{'1990': 3}]
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,End Date - Month,
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,End Date - Day,
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,End Date - Year,[{'None': 3}]
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,Begin Date - Month,[{'September': 3}]
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,Begin Date - Day,[{'13': 3}]
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,Begin Date - Year,[{'1988': 3}]
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,End Date - Month,[{'September': 3}]
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,End Date - Day,[{'15': 3}]
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,End Date - Year,[{'1988': 3}]
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,Begin Date - Month,[{'October': 3}]
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,Begin Date - Day,[{'22': 3}]
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,Begin Date - Year,[{'1991': 3}]
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,End Date - Month,[{'October': 3}]
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,End Date - Day,[{'23': 3}]
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,End Date - Year,[{'1991': 3}]
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,Begin Date - Month,[{'October': 3}]
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,Begin Date - Day,[{'22': 3}]
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,Begin Date - Year,[{'1991': 3}]
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,End Date - Month,[{'October': 3}]
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,End Date - Day,[{'23': 3}]
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,End Date - Year,[{'1991': 3}]
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,Begin Date - Month,[{'May': 3}]
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,Begin Date - Day,[{'2': 3}]
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,End Date - Month,"[{'May': 2, 'Same as Begin Date (Month)': 1}]"
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,End Date - Day,[{'4': 3}]
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,End Date - Year,"[{'1994': 2, 'Same as Begin Date (Year)': 1}]"
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,Begin Date - Month,[{'June': 3}]
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,Begin Date - Day,[{'24': 3}]
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,Begin Date - Year,[{'1991': 3}]
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,End Date - Month,[{'June': 3}]
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,End Date - Day,[{'26': 3}]
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,End Date - Year,[{'1991': 3}]
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,Begin Date - Month,[{'May': 3}]
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,Begin Date - Day,[{'20': 3}]
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,Begin Date - Year,[{'1991': 3}]
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,End Date - Month,[{'May': 3}]
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,End Date - Day,"[{'22': 2, '21': 1}]"
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,End Date - Year,[{'1991': 3}]
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,Begin Date - Month,[{'September': 3}]
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,Begin Date - Day,[{'29': 3}]
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,End Date - Month,
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,End Date - Day,
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,End Date - Year,[{'None': 3}]
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,Begin Date - Month,[{'September': 3}]
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,Begin Date - Day,[{'26': 3}]
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,End Date - Month,
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,End Date - Day,
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,End Date - Year,[{'None': 3}]
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,Begin Date - Month,[{'September': 3}]
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,Begin Date - Day,[{'15': 3}]
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,Begin Date - Year,[{'1989': 3}]
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,End Date - Month,
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,End Date - Day,
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,End Date - Year,[{'None': 3}]
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,Begin Date - Month,[{'June': 3}]
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,Begin Date - Day,[{'8': 3}]
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,End Date - Month,
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,End Date - Day,
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,End Date - Year,[{'None': 3}]
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,Begin Date - Month,[{'May': 3}]
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,Begin Date - Day,[{'23': 3}]
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,End Date - Month,
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,End Date - Day,
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,End Date - Year,[{'None': 3}]
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,Begin Date - Month,[{'May': 3}]
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,Begin Date - Day,[{'29': 3}]
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,Begin Date - Year,[{'1996': 3}]
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,End Date - Month,[{'May': 3}]
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,End Date - Day,[{'30': 3}]
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,End Date - Year,[{'1996': 3}]
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,Begin Date - Month,[{'May': 3}]
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,Begin Date - Day,[{'23': 3}]
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,Begin Date - Year,[{'1988': 3}]
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,End Date - Month,"[{'May': 2, 'Same as Begin Date (Month)': 1}]"
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,End Date - Day,[{'25': 3}]
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,End Date - Year,"[{'1988': 2, 'Same as Begin Date (Year)': 1}]"
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,Begin Date - Month,[{'June': 3}]
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,Begin Date - Day,[{'14': 3}]
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,End Date - Month,
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,End Date - Day,
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,End Date - Year,[{'None': 3}]
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,Begin Date - Month,[{'July': 3}]
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,Begin Date - Day,[{'27': 3}]
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,End Date - Month,
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,End Date - Day,
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,End Date - Year,[{'None': 3}]
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,Begin Date - Month,[{'July': 4}]
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,Begin Date - Day,[{'17': 4}]
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,Begin Date - Year,[{'1990': 4}]
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,End Date - Month,"[{'July': 3, 'Same as Begin Date (Month)': 1}]"
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,End Date - Day,[{'18': 4}]
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,End Date - Year,"[{'1990': 3, 'Same as Begin Date (Year)': 1}]"
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,Begin Date - Month,[{'October': 3}]
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,Begin Date - Day,[{'31': 3}]
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,Begin Date - Year,[{'1990': 3}]
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,End Date - Month,
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,End Date - Day,
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,End Date - Year,[{'None': 3}]
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,Begin Date - Month,[{'April': 3}]
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,Begin Date - Day,[{'19': 3}]
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,Begin Date - Year,[{'1990': 3}]
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,End Date - Month,
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,End Date - Day,
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,End Date - Year,[{'None': 3}]
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,Begin Date - Month,[{'June': 3}]
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,Begin Date - Day,[{'14': 3}]
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,End Date - Month,
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,End Date - Day,
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,End Date - Year,[{'None': 3}]
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,Begin Date - Month,[{'November': 3}]
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,Begin Date - Day,[{'2': 3}]
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,Begin Date - Year,[{'1998': 3}]
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,End Date - Month,[{'November': 3}]
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,End Date - Day,[{'4': 3}]
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,End Date - Year,[{'1998': 3}]
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,Begin Date - Month,[{'May': 3}]
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,Begin Date - Day,[{'1': 3}]
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,Begin Date - Year,[{'1991': 3}]
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,End Date - Month,"[{'May': 2, 'Same as Begin Date (Month)': 1}]"
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,End Date - Day,[{'2': 3}]
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,End Date - Year,"[{'1991': 2, 'Same as Begin Date (Year)': 1}]"
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,Begin Date - Month,[{'June': 3}]
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,Begin Date - Day,[{'20': 3}]
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,End Date - Month,
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,End Date - Day,
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,End Date - Year,[{'None': 3}]
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,Begin Date - Month,[{'July': 3}]
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,Begin Date - Day,[{'25': 3}]
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,Begin Date - Year,[{'1990': 3}]
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,End Date - Month,[{'July': 3}]
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,End Date - Day,[{'26': 3}]
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,End Date - Year,[{'1990': 3}]
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,Begin Date - Month,[{'May': 3}]
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,Begin Date - Day,[{'23': 3}]
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,End Date - Month,
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,End Date - Day,
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,End Date - Year,[{'None': 3}]
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,Begin Date - Month,[{'May': 3}]
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,Begin Date - Day,[{'22': 3}]
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,End Date - Month,
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,End Date - Day,
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,End Date - Year,[{'None': 3}]
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,Begin Date - Month,[{'May': 3}]
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,Begin Date - Day,[{'9': 3}]
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,Begin Date - Year,[{'1991': 3}]
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,End Date - Month,
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,End Date - Day,
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,End Date - Year,[{'None': 3}]
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,Begin Date - Month,[{'June': 3}]
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,Begin Date - Day,[{'27': 3}]
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,End Date - Month,
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,End Date - Day,
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,End Date - Year,[{'None': 3}]
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,Begin Date - Month,[{'June': 3}]
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,Begin Date - Day,[{'21': 3}]
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,End Date - Month,
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,End Date - Day,
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,End Date - Year,[{'None': 3}]
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,Begin Date - Month,[{'May': 3}]
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,Begin Date - Day,[{'21': 3}]
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,Begin Date - Year,[{'1996': 3}]
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,End Date - Month,
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,End Date - Day,
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,End Date - Year,[{'None': 3}]
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,Begin Date - Month,[{'June': 3}]
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,Begin Date - Day,[{'2': 3}]
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,End Date - Month,
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,End Date - Day,
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,End Date - Year,[{'None': 3}]
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,Begin Date - Month,[{'June': 3}]
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,Begin Date - Day,[{'22': 3}]
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,End Date - Month,
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,End Date - Day,
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,End Date - Year,[{'None': 3}]
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,Begin Date - Month,[{'June': 3}]
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,Begin Date - Day,[{'13': 3}]
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,End Date - Month,
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,End Date - Day,
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,End Date - Year,[{'None': 3}]
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,Begin Date - Month,[{'May': 3}]
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,Begin Date - Day,[{'6': 3}]
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,Begin Date - Year,[{'1992': 3}]
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,End Date - Month,[{'May': 3}]
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,End Date - Day,[{'7': 3}]
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,End Date - Year,[{'1992': 3}]
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,Begin Date - Month,[{'June': 3}]
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,Begin Date - Day,[{'22': 3}]
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,End Date - Month,
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,End Date - Day,
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,End Date - Year,[{'None': 3}]
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,Begin Date - Month,[{'October': 3}]
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,Begin Date - Day,[{'30': 3}]
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,Begin Date - Year,[{'1996': 3}]
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,End Date - Month,[{'November': 3}]
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,End Date - Day,[{'1': 3}]
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,End Date - Year,[{'1996': 3}]
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,Begin Date - Month,[{'July': 3}]
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,Begin Date - Day,[{'11': 3}]
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,End Date - Month,[{'July': 3}]
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,End Date - Day,[{'13': 3}]
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,End Date - Year,[{'1994': 3}]
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,Begin Date - Month,[{'July': 3}]
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,Begin Date - Day,[{'28': 3}]
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,End Date - Month,[{'July': 3}]
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,End Date - Day,[{'29': 3}]
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,End Date - Year,[{'1994': 3}]
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,Begin Date - Month,[{'June': 3}]
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,Begin Date - Day,[{'3': 3}]
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,Begin Date - Year,[{'1996': 3}]
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,End Date - Month,[{'June': 3}]
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,End Date - Day,[{'5': 3}]
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,End Date - Year,[{'1996': 3}]
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,Begin Date - Month,[{'May': 3}]
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,Begin Date - Day,[{'9': 3}]
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,End Date - Month,
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,End Date - Day,
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,End Date - Year,[{'None': 3}]
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,Begin Date - Month,[{'August': 3}]
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,Begin Date - Day,[{'28': 3}]
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,End Date - Month,[{'September': 3}]
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,End Date - Day,[{'1': 3}]
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,End Date - Year,"[{'1995': 2, 'Same as Begin Date (Year)': 1}]"
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,Begin Date - Month,[{'June': 3}]
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,Begin Date - Day,[{'20': 3}]
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,End Date - Month,[{'June': 3}]
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,End Date - Day,[{'23': 3}]
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,End Date - Year,[{'1994': 3}]
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,Begin Date - Month,[{'May': 3}]
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,Begin Date - Day,[{'23': 3}]
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,End Date - Month,"[{'May': 2, 'Same as Begin Date (Month)': 1}]"
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,End Date - Day,[{'26': 3}]
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,End Date - Year,"[{'1995': 2, 'Same as Begin Date (Year)': 1}]"
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,Begin Date - Month,[{'May': 3}]
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,Begin Date - Day,[{'15': 3}]
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,End Date - Month,[{'May': 3}]
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,End Date - Day,[{'19': 3}]
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,End Date - Year,[{'1995': 3}]
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,Begin Date - Month,[{'August': 3}]
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,Begin Date - Day,[{'13': 3}]
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,Begin Date - Year,[{'1996': 3}]
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,End Date - Month,[{'August': 3}]
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,End Date - Day,[{'14': 3}]
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,End Date - Year,[{'1996': 3}]
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,Begin Date - Month,[{'May': 3}]
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,Begin Date - Day,[{'9': 3}]
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,End Date - Month,
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,End Date - Day,
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,End Date - Year,[{'None': 3}]
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,Begin Date - Month,[{'October': 3}]
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,Begin Date - Day,[{'9': 3}]
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,End Date - Month,
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,End Date - Day,
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,End Date - Year,[{'None': 3}]
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,Begin Date - Month,[{'September': 3}]
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,Begin Date - Day,[{'15': 3}]
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,Begin Date - Year,[{'1988': 3}]
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,End Date - Month,
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,End Date - Day,
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,End Date - Year,[{'None': 3}]
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,Begin Date - Month,[{'October': 3}]
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,Begin Date - Day,[{'11': 3}]
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,Begin Date - Year,[{'1995': 3}]
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,End Date - Month,
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,End Date - Day,
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,End Date - Year,[{'None': 3}]
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,Begin Date - Month,[{'September': 3}]
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,Begin Date - Day,[{'26': 3}]
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,End Date - Month,[{'September': 3}]
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,End Date - Day,[{'27': 3}]
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,End Date - Year,[{'1994': 3}]
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,Begin Date - Month,[{'September': 3}]
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,Begin Date - Day,[{'21': 3}]
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,End Date - Month,
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,End Date - Day,
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,End Date - Year,[{'None': 3}]
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,Begin Date - Month,[{'April': 3}]
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,Begin Date - Day,[{'12': 3}]
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,End Date - Month,[{'April': 3}]
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,End Date - Day,[{'18': 3}]
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,End Date - Year,[{'1994': 3}]
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,Begin Date - Month,[{'June': 3}]
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,Begin Date - Day,[{'27': 3}]
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,Begin Date - Year,[{'1988': 3}]
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,End Date - Month,[{'July': 3}]
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,End Date - Day,[{'1': 3}]
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,End Date - Year,"[{'1988': 2, 'Same as Begin Date (Year)': 1}]"
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,Begin Date - Month,[{'June': 3}]
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,Begin Date - Day,[{'21': 2}]
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,Begin Date - Year,"[{'1994': 2, 'None': 1}]"
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,End Date - Month,[{'June': 3}]
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,End Date - Day,[{'22': 2}]
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,End Date - Year,"[{'1994': 2, 'None': 1}]"
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,Begin Date - Month,[{'June': 3}]
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,Begin Date - Day,[{'21': 3}]
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,End Date - Month,"[{'June': 2, 'Same as Begin Date (Month)': 1}]"
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,End Date - Day,[{'22': 3}]
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,End Date - Year,"[{'1994': 2, 'Same as Begin Date (Year)': 1}]"
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,Begin Date - Month,[{'June': 3}]
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,Begin Date - Day,[{'16': 3}]
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,End Date - Month,
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,End Date - Day,
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,End Date - Year,[{'None': 3}]
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,Begin Date - Month,[{'September': 3}]
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,Begin Date - Day,[{'20': 3}]
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,End Date - Month,
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,End Date - Day,
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,End Date - Year,[{'None': 3}]
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,Begin Date - Month,[{'June': 3}]
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,Begin Date - Day,[{'9': 3}]
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,Begin Date - Year,[{'1994': 3}]
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,End Date - Month,
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,End Date - Day,
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,End Date - Year,[{'None': 3}]
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,Begin Date - Month,[{'August': 3}]
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,Begin Date - Day,[{'30': 3}]
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,Begin Date - Year,"[{'1989': 2, 'None': 1}]"
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,End Date - Month,
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,End Date - Day,
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,End Date - Year,[{'None': 3}]
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,Begin Date - Month,[{'October': 3}]
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,Begin Date - Day,[{'13': 3}]
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,Begin Date - Year,[{'1988': 3}]
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,End Date - Month,
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,End Date - Day,
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,End Date - Year,[{'None': 3}]
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,Begin Date - Month,[{'June': 3}]
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,Begin Date - Day,[{'3': 3}]
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,Begin Date - Year,[{'1996': 3}]
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,End Date - Month,"[{'June': 2, 'Same as Begin Date (Month)': 1}]"
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,End Date - Day,[{'5': 3}]
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,End Date - Year,"[{'1996': 2, 'Same as Begin Date (Year)': 1}]"
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,Begin Date - Month,[{'October': 3}]
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,Begin Date - Day,[{'7': 3}]
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,Begin Date - Year,[{'1991': 3}]
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,End Date - Month,
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,End Date - Day,
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,End Date - Year,[{'None': 3}]
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,Begin Date - Month,[{'May': 3}]
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,Begin Date - Day,[{'22': 3}]
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,Begin Date - Year,[{'1995': 3}]
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,End Date - Month,[{'May': 3}]
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,End Date - Day,[{'24': 3}]
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,End Date - Year,[{'1995': 3}]
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,Begin Date - Month,[{'June': 3}]
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,Begin Date - Day,[{'27': 3}]
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,Begin Date - Year,[{'1989': 3}]
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,End Date - Month,[{'June': 3}]
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,End Date - Day,[{'29': 3}]
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,End Date - Year,[{'1989': 3}]
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,Begin Date - Month,[{'October': 3}]
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,Begin Date - Day,[{'26': 3}]
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,Begin Date - Year,[{'1990': 3}]
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,End Date - Month,
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,End Date - Day,
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,End Date - Year,[{'None': 3}]
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,Begin Date - Month,[{'June': 3}]
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,Begin Date - Day,[{'21': 3}]
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,Begin Date - Year,[{'1994': 3}]
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,End Date - Month,[{'June': 3}]
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,End Date - Day,[{'22': 3}]
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,End Date - Year,[{'1994': 3}]
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,Begin Date - Month,[{'June': 3}]
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,Begin Date - Day,[{'8': 3}]
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,Begin Date - Year,[{'1993': 3}]
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,End Date - Month,
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,End Date - Day,
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,End Date - Year,[{'None': 3}]
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,Begin Date - Month,[{'May': 3}]
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,Begin Date - Day,[{'25': 3}]
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,Begin Date - Year,[{'1995': 3}]
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,End Date - Month,
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,End Date - Day,
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,End Date - Year,[{'None': 3}]
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,Begin Date - Month,[{'June': 3}]
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,Begin Date - Day,[{'22': 3}]
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,Begin Date - Year,[{'1993': 3}]
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,End Date - Month,
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,End Date - Day,
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,End Date - Year,[{'None': 3}]
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,Begin Date - Month,[{'September': 3}]
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,Begin Date - Day,[{'21': 3}]
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,Begin Date - Year,[{'1994': 3}]
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,End Date - Month,
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,End Date - Day,
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,End Date - Year,[{'None': 3}]
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,Begin Date - Month,[{'August': 3}]
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,Begin Date - Day,[{'21': 3}]
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,Begin Date - Year,[{'1990': 3}]
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,End Date - Month,
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,End Date - Day,
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,End Date - Year,[{'None': 3}]
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,Begin Date - Month,[{'July': 3}]
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,Begin Date - Day,[{'27': 3}]
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,Begin Date - Year,[{'1990': 3}]
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,End Date - Month,
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,End Date - Day,
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,End Date - Year,[{'None': 3}]
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,Begin Date - Month,[{'September': 3}]
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,Begin Date - Day,[{'14': 3}]
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,Begin Date - Year,[{'1990': 3}]
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,End Date - Month,
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,End Date - Day,
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,End Date - Year,[{'None': 3}]
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,Begin Date - Month,[{'June': 3}]
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,Begin Date - Day,[{'3': 3}]
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,Begin Date - Year,[{'1996': 3}]
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,End Date - Month,[{'June': 3}]
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,End Date - Day,[{'5': 3}]
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,End Date - Year,"[{'None': 1, '1996': 2}]"

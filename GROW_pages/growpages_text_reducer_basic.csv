@@ -1,0 +1,456 @@
+subject_id,URL 4,URL 8,task,data.aligned_text,data.number_views,data.consensus_score,data.consensus_text
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,Other Dates,,,,
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,T,"[['44N', '44N', '44N']]",3.0,3.0,44N
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,R,"[['19W', '19W', '19W']]",3.0,3.0,19W
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,S,"[['11', '11', '11']]",3.0,3.0,11
+80048590,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_CARP_GROW_0001_5.jpeg,,Collector,"[['Ammerman,', 'Ammerman,', 'Ammerman,'], ['Stark,', 'Stark,', 'Stark,'], ['Reilly', 'Reilly', 'Reilly']]",3.0,3.0,"Ammerman, Stark, Reilly"
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,Other Dates,,,,
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,T,"[['45N', '45N', '45N']]",3.0,3.0,45N
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,R,"[['20W', '20W', '20W']]",3.0,3.0,20W
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,S,"[['Many', 'Many', 'Many']]",3.0,3.0,Many
+80048591,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_AUTRAIN_GROW_0001_5.jpeg,,Collector,"[['Madison,', 'Madison,', 'Madison,'], ['Harrison,', 'Harrison,', 'Harrison,'], ['Mulzer', 'Mulzer', 'Mulzer']]",3.0,3.0,"Madison, Harrison, Mulzer"
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,Other Dates,,,,
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,T,"[['47N', '47N', '47N']]",3.0,3.0,47N
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,R,"[['19W', '19W', '19W']]",3.0,3.0,19W
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,S,"[['11,14', '11,14', '11,14']]",3.0,3.0,"11,14"
+80048592,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_DUCK_GROW_0001_5.jpeg,,Collector,"[['Ammerman,', 'Ammerman,', 'Ammerman,'], ['Stark,', 'Stark,', 'Stark,'], ['Reilly', 'Reilly', 'Reilly']]",3.0,3.0,"Ammerman, Stark, Reilly"
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,Other Dates,,,,
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,T,"[['47,', '47,', '47N,48N'], ['48N', '48N', '']]",3.0,2.0,"47, 48N"
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,R,"[['19W', '19W', '19W']]",3.0,3.0,19W
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,S,"[['3,', '3,', '3,'], ['34', '34', '34']]",3.0,3.0,"3, 34"
+80048593,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_ECHO_GROW_0001_6.jpeg,,Collector,"[['Ammerman,', 'Ammerman,', 'Ammerman,'], ['Stark,', 'Stark,', 'Stark,'], ['Reilly', 'Reilly', 'Reilly']]",3.0,3.0,"Ammerman, Stark, Reilly"
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,Other Dates,,,,
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,T,"[['44N', '44N', '44N']]",3.0,3.0,44N
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,R,"[['19W', '19W', '19W']]",3.0,3.0,19W
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,S,"[['11,', '11,', '11,'], ['12', '12', '12']]",3.0,3.0,"11, 12"
+80048594,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_10.jpeg,,Collector,"[['V.', 'V.', 'M.'], ['St.', 'St.', ''], ['John', 'John', 'Ammerman']]",3.0,2.0,V. St. John
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,Other Dates,,,,
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,T,"[['44N', '44N', '44N']]",3.0,3.0,44N
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,R,"[['19W', '19W', '19W']]",3.0,3.0,19W
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,S,"[['11,', '11,', '11,'], ['12', '12', '12']]",3.0,3.0,"11, 12"
+80048595,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_8.jpeg,,Collector,"[['Ammerman,', 'Ammerman,', 'Ammerman,'], ['Reilly,', 'Stark,', 'Reilly,'], ['Stark', 'Reilly', 'Stark']]",3.0,2.3333333333333335,"Ammerman, Stark, Reilly"
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,Other Dates,,,,
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,T,"[['44N', '44N', '44N']]",3.0,3.0,44N
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,R,"[['19W', '19W', '19W']]",3.0,3.0,19W
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,S,"[['11', '11', '11']]",3.0,3.0,11
+80048596,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_FISHHOOK_GROW_0001_9.jpeg,,Collector,"[['Ammerman,', 'Ammerman,', 'Ammerman,'], ['Stark,', 'Stark,', 'Stark,'], ['Reilly', 'Reilly', 'Reilly']]",3.0,3.0,"Ammerman, Stark, Reilly"
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,Other Dates,,,,
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,T,"[['48N', '48N', '48N']]",3.0,3.0,48N
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,R,"[['13W', '13W', '13W']]",3.0,3.0,13W
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,S,"[['Many', 'Many', 'Many']]",3.0,3.0,Many
+80048597,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_NAWAKWA_GROW_0001_8.jpeg,,Collector,"[['Kolson,', 'Kolson,', 'Kolson,'], ['Delong', 'Delong', 'Delong']]",3.0,3.0,"Kolson, Delong"
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,Other Dates,,,,
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,T,"[['44N', '44N', '44N']]",3.0,3.0,44N
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,R,"[['18W', '18W', '18W']]",3.0,3.0,18W
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,S,"[['7', '7', '7']]",3.0,3.0,7
+80048598,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/ALGER_PETES_GROW_0001_5.jpeg,,Collector,"[['Aho,', 'Aho,', 'Aho,'], ['Ammerman', 'Ammerman', 'Ammerman']]",3.0,3.0,"Aho, Ammerman"
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,Other Dates,,,,
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,T,"[['15', '15', '15', '15']]",4.0,4.0,15
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,R,"[['8W', '8W', '8W', '8W']]",4.0,4.0,8W
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,S,"[['2,', '2,', '2,', '2,'], ['3', '3', '3', '3']]",4.0,4.0,"2, 3"
+80048599,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/CALHOUN_WABASCON_GROW_0001_5.jpeg,,Collector,"[['District', 'District', 'District', 'District'], ['13', '13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries', 'Fisheries']]",4.0,4.0,District 13 Fisheries
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,Other Dates,,,,
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,T,"[['43N', '43N', '43N']]",3.0,3.0,43N
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,R,"[['18W', '18W', '18W']]",3.0,3.0,18W
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,S,"[['14,', '14,', '14,'], ['23', '23', '23']]",3.0,3.0,"14, 23"
+80048600,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,Collector,"[['Prout,', 'Prout,', 'Prout,'], ['P.', 'P.', 'P.'], ['Sweeney,', 'Sweeney,', 'Sweeney,'], ['St.', 'St.', 'St.'], ['John', 'John', 'John']]",3.0,3.0,"Prout, P. Sweeney, St. John"
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,Other Dates,,,,
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,T,"[['43N', '43N', '43N']]",3.0,3.0,43N
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,R,"[['18W', '18W', '18W']]",3.0,3.0,18W
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,S,"[['5,', '5,', '5,'], ['8', '8', '8']]",3.0,3.0,"5, 8"
+80048601,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Mowe_GROW_052.jpeg,,Collector,"[['Prout,', 'Prout,', 'Prout,'], ['St.', 'St.', 'St.'], ['John', 'John', 'John']]",3.0,3.0,"Prout, St. John"
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,Other Dates,,,,
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,T,"[['3N', '3N', '3N']]",3.0,3.0,3N
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,R,"[['3W', '3W', '3W']]",3.0,3.0,3W
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,S,"[['4', '4', '4']]",3.0,3.0,4
+80048602,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Eaton_DavisRoadPit_GROW_003.jpeg,,Collector,"[['D.', 'D.', 'D.'], ['Barnard,', 'Barnard,', 'Barnard,'], ['M.', 'M.', 'M.'], ['Gerlach,', 'Gerlach,', 'Gerlach,'], ['W.', 'W.', 'W.'], ['Bryant', 'Bryant', 'Bryant']]",3.0,3.0,"D. Barnard, M. Gerlach, W. Bryant"
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,Other Dates,"[['9/3'], ['-'], ['-'], ['10/1/91']]",1.0,1.0,9/3 - - 10/1/91
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,T,"[['5N', '5N', '5N']]",3.0,3.0,5N
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,R,"[['6E', '6E', '6E']]",3.0,3.0,6E
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,S,"[['29,', '29,', '29,'], ['30', '30', '30']]",3.0,3.0,"29, 30"
+80048603,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Byram_GROW_031.jpeg,,Collector,"[['W.', 'W.', 'W.'], ['Bryant,', 'Bryant,', 'Bryant,'], ['J.', 'J.', 'J.'], ['Drew', 'Drew', 'Drew']]",3.0,3.0,"W. Bryant, J. Drew"
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,Other Dates,,,,
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,T,"[['8N', '8N', '8N']]",3.0,3.0,8N
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,R,"[['6E', '6E', '6E']]",3.0,3.0,6E
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,S,"[['35', '35', '35']]",3.0,3.0,35
+80048604,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_Devil_s_GROW_007.jpeg,,Collector,"[['D.', 'D.', 'D.'], ['Barnard,', 'Barnard,', 'Barnard,'], ['A.', 'A.', 'A.'], ['Hanna', 'Hanna', 'Hanna']]",3.0,3.0,"D. Barnard, A. Hanna"
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,Other Dates,,,,
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,T,"[['8N', '8N', 'BN']]",3.0,2.0,8N
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,R,"[['8E', '8E', 'BE']]",3.0,2.0,8E
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,S,"[['7', '7', '7']]",3.0,3.0,7
+80048605,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,Collector,"[['D.', 'D.', 'D.'], ['Barnard', 'Barnard', 'Barnard']]",3.0,3.0,D. Barnard
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,Other Dates,,,,
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,T,"[['8N', '8N', '8N']]",3.0,3.0,8N
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,R,"[['8E', '8E', '8E']]",3.0,3.0,8E
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,S,"[['7', '7', '7']]",3.0,3.0,7
+80048606,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,Collector,"[['D.', 'D.', 'D.'], ['Barnard', 'Barnard', 'Barnard']]",3.0,3.0,D. Barnard
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,Other Dates,,,,
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,T,"[['8N', '8N', '8N']]",3.0,3.0,8N
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,R,"[['8E', '8E', '8E']]",3.0,3.0,8E
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,S,"[['18', '18', '18']]",3.0,3.0,18
+80048607,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,Collector,"[['D.', 'D.', 'D.'], ['Barnard', 'Barnard', 'Barnard']]",3.0,3.0,D. Barnard
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,Other Dates,,,,
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,T,"[['8N', '08N', '8N']]",3.0,2.0,8N
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,R,"[['7E', '07E', '7E']]",3.0,2.0,7E
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,S,"[['Many', 'Many', 'Many']]",3.0,3.0,Many
+80048608,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gladwin_MottImpoundment_GROW_012.jpeg,,Collector,"[['D.', 'D.', 'D.'], ['Nelson,', 'Nelson,', 'Nelson,'], ['M.', 'M.', 'M.'], ['Gerlach', 'Gerlach', 'Gerlach']]",3.0,3.0,"D. Nelson, M. Gerlach"
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,Other Dates,,,,
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,T,"[['10N', '10N', '10N']]",3.0,3.0,10N
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,R,"[['2W', '2W', '2W']]",3.0,3.0,2W
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,S,"[['22', '22', '22']]",3.0,3.0,22
+80048609,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_ReedParkPond_GROW_003.jpeg,,Collector,"[['W.', 'W.', 'W.'], ['Bryant,', 'Bryant,', 'Bryant,'], ['J.', 'J.', 'J.'], ['Drew', 'Drew', 'Drew']]",3.0,3.0,"W. Bryant, J. Drew"
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,Other Dates,,,,
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,T,"[['11N', '11N', '11N']]",3.0,3.0,11N
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,R,"[['4W', '4W', '4W']]",3.0,3.0,4W
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,S,"[['34', '34', '34']]",3.0,3.0,34
+80048610,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Gratiot_WestCountyParkPond_GROW_003.jpeg,,Collector,"[['W.', 'W.', 'W.'], ['Bryant,', 'Bryant,', 'Bryant,'], ['J.', 'J.', 'J.'], ['Drew', 'Drew', 'Drew']]",3.0,3.0,"W. Bryant, J. Drew"
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,Other Dates,,,,
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,T,"[['6S', '6S', '6S']]",3.0,3.0,6S
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,R,"[['4W', '4W', '4W']]",3.0,3.0,4W
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,S,"[['8', '8', '8']]",3.0,3.0,8
+80048611,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Hillsdale_Bear_GROW_126.jpeg,,Collector,"[['Jackson', 'Jackson', 'Jackson'], ['S.', '', 'S.'], ['Crew', '', 'Crew'], ['1994', '', '1994']]",3.0,2.25,Jackson S. Crew 1994
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,Other Dates,,,,
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,T,"[['4N', '4N', '4N']]",3.0,3.0,4N
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,R,"[['2W', '2W', '2W']]",3.0,3.0,2W
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,S,"[['4', '4', '4']]",3.0,3.0,4
+80048612,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Jones_GROW_010.jpeg,,Collector,"[['T.', 'T.', 'T.'], ['Anderson,', 'Anderson,', 'Anderson,'], ['P.', 'P.', 'P.'], ['Mendenall', 'Mendenall', 'Mendenall']]",3.0,3.0,"T. Anderson, P. Mendenall"
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,Other Dates,,,,
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,T,"[['4N', '4N', '4N']]",3.0,3.0,4N
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,R,"[['1W', '1W', '1W']]",3.0,3.0,1W
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,S,"[['2,', '2,', '2,'], ['3,', '3,', '3,'], ['11,', '11,', '11,'], ['12', '12', '12']]",3.0,3.0,"2, 3, 11, 12"
+80048613,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Ingham_Lansing_GROW_112.jpeg,,Collector,"[['T.', 'T.', 'T.'], ['Anderson,', 'Anderson,', 'Anderson,'], ['J.', 'J.', 'J.'], ['Drew,', 'Drew,', 'Drew,'], ['M.', 'M.', 'M.'], ['Gerlach,', 'Gerlach,', 'Gerlach,'], ['D.', 'D.', 'D.'], ['Barnard,', 'Barnard,', 'Barnard,'], ['W.', 'W.', 'W.'], ['Bryant', 'Bryant', 'Bryant']]",3.0,3.0,"T. Anderson, J. Drew, M. Gerlach, D. Barnard, W. Bryant"
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,Other Dates,,,,
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,T,"[['24,', '24,', '24,'], ['25N', '25N', '25N']]",3.0,3.0,"24, 25N"
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,R,"[['9E', '9E', '9E']]",3.0,3.0,9E
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,S,"[['3,', '3,', '3,'], ['34', '34', '34']]",3.0,3.0,"3, 34"
+80048614,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_Cedar_GROW_006.jpeg,,Collector,"[['ESS,', 'ESS,', 'ESS,'], ['MDP', 'MDP', 'MDP']]",3.0,3.0,"ESS, MDP"
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,Other Dates,,,,
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,T,"[['24N', '24N', '24N']]",3.0,3.0,24N
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,R,"[['7E', '7E', '7E']]",3.0,3.0,7E
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,S,"[['20,', '20,', '20,'], ['29,', '29,', '29,'], ['30', '30', '30']]",3.0,3.0,"20, 29, 30"
+80048615,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iosco_CookeImpoundment_GROW_025.jpeg,,Collector,"[['ESS,', 'ESS,', 'ESS,'], ['CAJ,', 'CAJ,', 'CAJ,'], ['MDP,', 'MDP,', 'MDP,'], ['SPS', 'SPS', 'SPS']]",3.0,3.0,"ESS, CAJ, MDP, SPS"
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,Other Dates,,,,
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,T,"[['42,', '42,', '42,43'], ['43N', '43N', '']]",3.0,2.0,"42, 43N"
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,R,"[['35W', '35W', '35W']]",3.0,3.0,35W
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,S,"[['35', '35', '35']]",3.0,3.0,35
+80048616,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Iron_Ottawa_GROW_113.jpeg,,Collector,"[['B.', 'B.', 'B.'], ['Ziegler,', 'Ziegler,', 'Ziegler,'], ['G.', 'G.', 'G.'], ['Schnicke,', 'Schnicke,', 'Schnicke,'], ['V.', 'V.', 'V.'], ['Nurenberg', 'Nurenberg', 'Nurenberg']]",3.0,3.0,"B. Ziegler, G. Schnicke, V. Nurenberg"
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,Other Dates,,,,
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,T,"[['', '01,', ''], ['1,2S', '2S', '1,2S']]",3.0,1.5,"01, 1,2S"
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,R,"[['2E', '02E', '2E']]",3.0,2.0,2E
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,S,"[['Many', 'Many', 'Many']]",3.0,3.0,Many
+80048617,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Clear_GROW_116.jpeg,,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,Other Dates,,,,
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,T,"[['3S', '03S', '03S']]",3.0,2.0,03S
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,R,"[['2W', '02W', '02W']]",3.0,2.0,02W
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,S,"[['21', '21', '21']]",3.0,3.0,21
+80048618,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Jackson_Lime_GROW_062.jpeg,,Collector,"[['District', '', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,2.6666666666666665,District 13 Fisheries
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,Other Dates,,,,
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,T,"[['6N', '6N', '6N']]",3.0,3.0,6N
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,R,"[['9E', '9E', '9E']]",3.0,3.0,9E
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,S,"[['31', '31', '31']]",3.0,3.0,31
+80048619,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Algoe_GROW_049.jpeg,,Collector,"[['District', 'District', 'District'], ['11', '11', '11'], ['Crew', 'Crew', 'Crew']]",3.0,3.0,District 11 Crew
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,Other Dates,[['3/22/89']],1.0,1.0,3/22/89
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,T,"[['8N', '08N', '08N']]",3.0,2.0,08N
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,R,"[['11E', '11E', '11E']]",3.0,3.0,11E
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,S,"[['8', '08', '08']]",3.0,2.0,08
+80048620,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Cedar_GROW_054.jpeg,,Collector,"[['Nelson,', 'Nelson,', 'Nelson,'], ['Gerlach,', 'Gerlach,', 'Gerlach,'], ['Barnhard', 'Barnhard', 'Barnhard']]",3.0,3.0,"Nelson, Gerlach, Barnhard"
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,Other Dates,,,,
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,T,"[['6N', '6N', '6N']]",3.0,3.0,6N
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,R,"[['9E', '9E', '9E']]",3.0,3.0,9E
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,S,"[['34', '34', '34']]",3.0,3.0,34
+80048621,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_029.jpeg,,Collector,"[['District', 'District', 'District'], ['11', '11', '11'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 11 Fisheries
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,Other Dates,,,,
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,T,"[['6N', '6N', '6N']]",3.0,3.0,6N
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,R,"[['9E', '9E', '9E']]",3.0,3.0,9E
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,S,"[['34', '34', '34']]",3.0,3.0,34
+80048622,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_FishBig_GROW_030.jpeg,,Collector,"[['District', 'District', 'District'], ['11', '11', '11'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 11 Fisheries
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,Other Dates,,,,
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,T,"[['6N', '6N', '6N', '6M']]",4.0,3.0,6N
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,R,"[['9E', '9E', '9E', '9E']]",4.0,4.0,9E
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,S,"[['12,', '12,', '12,', '12,'], ['13', '13', '13', '13']]",4.0,4.0,"12, 13"
+80048623,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_MinnewannaLake_GROW_120.jpeg,,Collector,"[['D.', 'D.', 'D.', 'D.'], ['Barnard', 'Barnard', 'Barnard', 'Barnard']]",4.0,4.0,D. Barnard
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,Other Dates,,,,
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,T,"[['7N', '7N', '7N']]",3.0,3.0,7N
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,R,"[['9E', '9E', '9E']]",3.0,3.0,9E
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,S,"[['14,', '14,', '14,'], ['15,', '15,', '15,'], ['22,', '22,', '22,'], ['23', '23', '23']]",3.0,3.0,"14, 15, 22, 23"
+80048624,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_020.jpeg,,Collector,"[['M.', 'M.', 'M.'], ['Gerlach,', 'Gerlach,', 'Gerlach,'], ['J.', 'J.', 'J.'], ['Drew', 'Drew', 'Drew']]",3.0,3.0,"M. Gerlach, J. Drew"
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,Other Dates,,,,
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,T,"[['7N', '7N', '7N']]",3.0,3.0,7N
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,R,"[['9E', '9E', '9E']]",3.0,3.0,9E
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,S,"[['14,', '14,', '14,'], ['15,', '15,', '15,'], ['22,', '22,', '22,'], ['23', '23', '23']]",3.0,3.0,"14, 15, 22, 23"
+80048625,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_NepessingLake_GROW_106.jpeg,,Collector,"[['D-11', 'D-11', 'D-11']]",3.0,3.0,D-11
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,Other Dates,,,,
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,T,"[['9N', '9N', '9N']]",3.0,3.0,9N
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,R,"[['9E', '9E', '9E']]",3.0,3.0,9E
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,S,"[['6', '6', '6']]",3.0,3.0,6
+80048626,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Lapeer_Otter_GROW_035.jpeg,,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,Other Dates,,,,
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,T,"[['01N', '1N', '01N']]",3.0,2.0,01N
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,R,"[['05E', '5E', '05E']]",3.0,2.0,05E
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,S,"[['02', '2', '02']]",3.0,2.0,02
+80048627,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_045.jpeg,,Collector,,,,
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,Other Dates,,,,
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,T,"[['1N', '1N', '1N']]",3.0,3.0,1N
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,S,"[['2', '2', '2']]",3.0,3.0,2
+80048628,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Appleton_GROW_052.jpeg,,Collector,"[['D.', 'D.', 'D-11'], ['Barnard,', 'Barnard,', ''], ['M.', 'M.', ''], ['Gerlach', 'Gerlach', 'Fisheries']]",3.0,2.0,"D. Barnard, M. Gerlach"
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,Other Dates,,,,
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,T,"[['1S', '1S', '1S']]",3.0,3.0,1S
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,S,"[['5', '5', '5']]",3.0,3.0,5
+80048629,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_BaseLine_GROW_029.jpeg,,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,Other Dates,,,,
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,T,"[['4N', '4N', '4N']]",3.0,3.0,4N
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,S,"[['1,', '1,', '1,'], ['2', '2', '2']]",3.0,3.0,"1, 2"
+80048630,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Bennett_GROW_019.jpeg,,Collector,"[['T.', 'T.', 'T.'], ['Anderson', 'Anderson', 'Anderson']]",3.0,3.0,T. Anderson
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,Other Dates,,,,
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,T,"[['2N', '2N', '2N']]",3.0,3.0,2N
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,S,"[['3,', '3,', '3,'], ['4,', '4,', '4,'], ['9', '9', '9']]",3.0,3.0,"3, 4, 9"
+80048631,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_064.jpeg,,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,Other Dates,,,,
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,T,"[['2N', '2N', '2N']]",3.0,3.0,2N
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,S,"[['3,', '3,', '3,'], ['4,', '4,', '4,'], ['9', '9', '9']]",3.0,3.0,"3, 4, 9"
+80048632,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_065.jpeg,,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,Other Dates,,,,
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,T,"[['2N', '2N', '2N']]",3.0,3.0,2N
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,S,"[['3,', '3,', '3,'], ['4,', '4,', '4,'], ['9,', '9,', '9,'], ['10,', '10,', '10,'], ['11', '11', '11']]",3.0,3.0,"3, 4, 9, 10, 11"
+80048633,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Chemung_GROW_081.jpeg,,Collector,"[['D.', 'D.', 'D.'], ['Barnard,', 'Barnard,', 'Barnard,'], ['T.', 'T.', 'T.'], ['Anderson,', 'Anderson,', 'Anderson,'], ['M.', 'M.', 'M.'], ['Gerlach', 'Gerlach', 'Gerlach']]",3.0,3.0,"D. Barnard, T. Anderson, M. Gerlach"
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,Other Dates,,,,
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,T,"[['2N', '2N', '2N']]",3.0,3.0,2N
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,S,"[['33', '33', '33']]",3.0,3.0,33
+80048634,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_ChilsonPond_GROW_022.jpeg,,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,Other Dates,,,,
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,T,"[['1N', '1N', '1N']]",3.0,3.0,1N
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,S,"[['28,', '28,', '28,'], ['32', '32', '32']]",3.0,3.0,"28, 32"
+80048635,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Gallagher_GROW_027.jpeg,,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,Other Dates,,,,
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,T,"[['1N', '1N', '1N']]",3.0,3.0,1N
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,R,"[['6E', '6E', '6E']]",3.0,3.0,6E
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,S,"[['31', '31', '31']]",3.0,3.0,31
+80048636,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Island1N_6E_S4_GROW_100.jpeg,,Collector,"[['District', 'District', 'District'], ['11', '11', '11'], ['Crew', 'Crew', '']]",3.0,2.6666666666666665,District 11 Crew
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,Other Dates,,,,
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,T,"[['1N,', '1N,', '1N,'], ['1S', '1S', '1S']]",3.0,3.0,"1N, 1S"
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,R,"[['4E', '4E', '4E']]",3.0,3.0,4E
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,S,"[['1,', '1,', '1,'], ['2,', '2,', '2,'], ['31,', '31,', '31,'], ['36', '36', '36']]",3.0,3.0,"1, 2, 31, 36"
+80048637,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Portage(Big)_GROW_240.jpeg,,Collector,"[['District', 'District', 'District'], ['11', '11', '11'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 11 Fisheries
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,Other Dates,,,,
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,T,"[['1N', '1N', '1N']]",3.0,3.0,1N
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,S,"[['27,', '27,', '27,'], ['28', '28', '28']]",3.0,3.0,"27, 28"
+80048638,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Strawberry_GROW_082.jpeg,,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,Other Dates,,,,
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,T,"[['3N', '3N', '3N']]",3.0,3.0,3N
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,R,"[['4,', '', '4,'], ['5E', '5E', '5E']]",3.0,2.5,"4, 5E"
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,S,"[['25,', '25,', '25,'], ['36', '36', '36']]",3.0,3.0,"25, 36"
+80048639,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Thompson_GROW_046.jpeg,,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,Other Dates,,,,
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,T,"[['2N', '2N', '2N']]",3.0,3.0,2N
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,R,"[['6E', '6E', '6E']]",3.0,3.0,6E
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,S,"[['18,', '18,', '18,'], ['19,', '19,', '19,'], ['20', '20', '20']]",3.0,3.0,"18, 19, 20"
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,Collector,"[['M.', 'M.', 'M.'], ['Gerlach,', 'Gerlach,', 'Gerlach,'], ['W.', 'W.', 'W.'], ['Bryant,', 'Bryant,', 'Bryant,'], ['D.', 'D.', 'D.'], ['Barnard,', 'Barnard,', 'Barnard,'], ['T.', 'T.', 'T.'], ['Anderson', 'Anderson', 'Anderson']]",3.0,3.0,"M. Gerlach, W. Bryant, D. Barnard, T. Anderson"
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,Other Dates,,,,
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,T,"[['1N', '1N', '1N']]",3.0,3.0,1N
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,S,"[['21,22', '21,22', '21,22']]",3.0,3.0,"21,22"
+80048641,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Zukey_GROW_052.jpeg,,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,Other Dates,"[['January'], ['3,'], ['1997']]",1.0,1.0,"January 3, 1997"
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,T,"[['47N', '47N', '47N']]",3.0,3.0,47N
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,R,"[['11W', '11W', '11W']]",3.0,3.0,11W
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,S,"[['17', '17', '17']]",3.0,3.0,17
+80048642,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Bass_GROW_128.jpeg,,Collector,,,,
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,Other Dates,,,,
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,T,"[['49N', '49N', '49N']]",3.0,3.0,49N
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,R,"[['12W', '12W', '12W']]",3.0,3.0,12W
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,S,"[['Many', 'Many', 'Many']]",3.0,3.0,Many
+80048643,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_BlindSuckerFlooding_GROW_027.jpeg,,Collector,"[['Kolson', 'Kolson', 'Kolson']]",3.0,3.0,Kolson
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,Other Dates,,,,
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,T,"[['49N', '49N', '49N']]",3.0,3.0,49N
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,R,"[['10W', '10W', '10W']]",3.0,3.0,10W
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,S,"[['23,', '23,', '23,'], ['24', '24', '24']]",3.0,3.0,"23, 24"
+80048644,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_ChrisBrown_GROW_041.jpeg,,Collector,"[['Kolson,', 'Kolson,', 'Kolson,'], ['Delong', 'Delong', 'Delong']]",3.0,3.0,"Kolson, Delong"
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,Other Dates,,,,
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,T,"[['49N', '49N', '49N']]",3.0,3.0,49N
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,R,"[['11W', '11W', '11W']]",3.0,3.0,11W
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,S,"[['34', '34', '34']]",3.0,3.0,34
+80048645,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_Pretty_GROW_085.jpeg,,Collector,,,,
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,Other Dates,,,,
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,T,,,,
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,R,,,,
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,S,,,,
+80048646,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Grass_GROW_005.jpeg,,Collector,"[['C.', 'C.', 'C.'], ['Payment', 'Payment', 'Payment']]",3.0,3.0,C. Payment
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,Other Dates,,,,
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,T,,,,
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,R,,,,
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,S,,,,
+80048647,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_ManistiqueSouth_GROW_266.jpeg,,Collector,"[['Payment,', 'Payment,', 'Payment,'], ['Kolson,', 'Kolson,', 'Kolson,'], ['Waybrant', 'Waybrant', 'Waybrant']]",3.0,3.0,"Payment, Kolson, Waybrant"
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,Other Dates,,,,
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,T,"[['43N', '43N', '43N']]",3.0,3.0,43N
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,R,"[['12W', '12W', '12W']]",3.0,3.0,12W
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,S,"[['34', '34', '34']]",3.0,3.0,34
+80048648,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Milakokia_GROW_102.jpeg,,Collector,"[['Payment,', 'Payment,', 'Payment,'], ['Fahler,', 'Fahler,', 'Fahler,'], ['Delong', 'Delong', 'Delong']]",3.0,3.0,"Payment, Fahler, Delong"
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,Other Dates,,,,
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,T,,,,
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,R,,,,
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,S,,,,
+80048649,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Millecoquin_GROW_131.jpeg,,Collector,"[['Payment,', 'Payment,', 'Payment,'], ['Waybrant', 'Waybrant', 'Waybrant']]",3.0,3.0,"Payment, Waybrant"
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,Other Dates,,,,
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,T,,,,
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,R,,,,
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,S,,,,
+80048650,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Round_GROW_013.jpeg,,Collector,"[['Payment,', 'Payment,', 'Payment,'], ['Drost', 'Drost', 'Drost']]",3.0,3.0,"Payment, Drost"
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,Other Dates,,,,
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,T,"[['42N', '42N', '42N']]",3.0,3.0,42N
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,R,"[['11W', '11W', '11W']]",3.0,3.0,11W
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,S,"[['26', '26', '26']]",3.0,3.0,26
+80048651,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Simmons_GROW_004.jpeg,,Collector,,,,
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,Other Dates,,,,
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,T,,,,
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,R,,,,
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,S,,,,
+80048652,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Mackinac_Tee_GROW_004.jpeg,,Collector,"[['Payment,', 'Payment,', 'Payment,'], ['Drost', 'Drost', 'Drost']]",3.0,3.0,"Payment, Drost"
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,Other Dates,,,,
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,T,"[['4N', '4N', '4N']]",3.0,3.0,4N
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,R,"[['11,', '11,12E', '11,12E'], ['13E', '', '']]",3.0,1.5,"11,12E 13E"
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,S,"[['20,', '20,', '20,'], ['25,', '25,', '25,'], ['26,', '26,', '26,'], ['29,', '29,', '29,'], ['30,', '30,', '30,'], ['31', '31', '31']]",3.0,3.0,"20, 25, 26, 29, 30, 31"
+80048653,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Macomb_StonyCreekImpoundment_GROW_041.jpeg,,Collector,"[['Somers,', 'Somers,', 'Somers,'], ['Melling,', 'Melling,', 'Melling,'], ['Beasley', 'Beasley', 'Beasley']]",3.0,3.0,"Somers, Melling, Beasley"
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,Other Dates,,,,
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,T,"[['04N', '4N', '04N']]",3.0,2.0,04N
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,R,"[['07E', '7E', '07E']]",3.0,2.0,07E
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,S,"[['19,', '19,', '19,'], ['30,', '30,', '30,'], ['31', '31', '31']]",3.0,3.0,"19, 30, 31"
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,Collector,"[['J.', 'Adams,', 'Adams,'], ['Leonardi', 'Scott', 'Scott']]",3.0,2.0,"Adams, Scott"
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,Other Dates,,,,
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,T,"[['2N', '2N', '2N']]",3.0,3.0,2N
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,R,"[['8,', '8,', '8,'], ['9E', '9E', '9E']]",3.0,3.0,"8, 9E"
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,S,"[['1,', '1,', '1,'], ['5,', '5,', '5,'], ['6', '6', '6']]",3.0,3.0,"1, 5, 6"
+80048655,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0001_5.jpeg,,Collector,"[['Towns,', 'Towns,', 'Towns,'], ['Braunscheidel,', 'Braunscheidel,', 'Braunscheidel,'], ['Melling', 'Melling', 'Melling']]",3.0,3.0,"Towns, Braunscheidel, Melling"
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,Other Dates,,,,
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,T,"[['2N', '2N', '2N']]",3.0,3.0,2N
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,R,"[['8,', '8,', '8,'], ['9E', '9E', '9E']]",3.0,3.0,"8, 9E"
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,S,"[['1,', '1,', '1,'], ['5,', '5,', '5,'], ['6', '6', '6']]",3.0,3.0,"1, 5, 6"
+80048656,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_UNION_GROW_0002_6.jpeg,,Collector,"[['Melling,', 'Mellings,', 'Melling,'], ['Askam', 'Askam', 'Askam']]",3.0,2.5,"Melling, Askam"
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,Other Dates,,,,
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,T,"[['22N', '22N', '22N']]",3.0,3.0,22N
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,R,"[['2E', '2E', '2E']]",3.0,3.0,2E
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,S,"[['14,', '14,', '14,'], ['15,', '15,', '15,'], ['22', '22', '22']]",3.0,3.0,"14, 15, 22"
+80048657,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0022_5.jpeg,,Collector,"[['ESS,', 'ESS,', 'ESS,'], ['MDP', 'MDP', 'MDP']]",3.0,3.0,"ESS, MDP"
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,Other Dates,,,,
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,T,"[['22N', '22N', '22N']]",3.0,3.0,22N
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,R,"[['2E', '2E', '2E']]",3.0,3.0,2E
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,S,"[['14,', '14,', '14,'], ['15,', '15,', '15,'], ['22', '22', '22']]",3.0,3.0,"14, 15, 22"
+80048658,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_PEACH_GROW_0024_3.jpeg,,Collector,"[['Crew', 'Crew', 'Crew']]",3.0,3.0,Crew
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,Other Dates,,,,
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,T,"[['23N', '23N', '23N']]",3.0,3.0,23N
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,R,"[['4E', '4E', '4E']]",3.0,3.0,4E
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,S,"[['27,28,29,33,34,35', '27,28,29,33,34,35', '27,28,29,33,34,35']]",3.0,3.0,"27,28,29,33,34,35"
+80048659,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OGEMAW_SAGE_GROW_0010_5.jpeg,,Collector,"[['Crew', 'Crew', 'Crew']]",3.0,3.0,Crew
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,Other Dates,,,,
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,T,"[['1S', '1S', '1S']]",3.0,3.0,1S
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,R,"[['4E', '4E', '4E']]",3.0,3.0,4E
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,S,"[['3', '3', '3']]",3.0,3.0,3
+80048660,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_10.jpeg,,Collector,"[['D-13', 'D-13', 'Michael'], ['Fish', 'Fish', 'P.'], ['', '', 'Herman']]",3.0,1.6666666666666667,D-13 Fish Herman
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,Other Dates,,,,
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,T,"[['1S', '1S', '1S']]",3.0,3.0,1S
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,R,"[['4E', '4E', '4E']]",3.0,3.0,4E
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,S,"[['3', '3', '3']]",3.0,3.0,3
+80048661,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BIGSILVER_GROW_0001_11.jpeg,,Collector,"[['D-13', 'D-13', 'D-13'], ['Fish', 'Fish', 'Fish']]",3.0,3.0,D-13 Fish
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,Other Dates,,,,
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,T,"[['1S', '1S', '1S']]",3.0,3.0,1S
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,R,"[['3E', '3E', '3E']]",3.0,3.0,3E
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,S,"[['1,', '1,', '1,'], ['2', '2', '2']]",3.0,3.0,"1, 2"
+80048662,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_BRUIN_GROW_0008_6.jpeg,,Collector,"[['D-13', 'D-13', 'D-13'], ['Fish', 'Fish', 'Fish']]",3.0,3.0,D-13 Fish
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,Other Dates,,,,
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,T,"[['2S', '2S', '2S']]",3.0,3.0,2S
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,R,"[['5E', '5E', '5E']]",3.0,3.0,5E
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,S,"[['25', '25', '25']]",3.0,3.0,25
+80048663,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_FIRSTSECONDANDTHIRD_GROW_0001_3.jpeg,,Collector,"[['Gapczynski,', 'Gapczynski,', 'Gapczynski,'], ['Zorn,', 'Zorn,', 'Zorn,'], ['Sutton', 'Sutton', 'Sutton']]",3.0,3.0,"Gapczynski, Zorn, Sutton"
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,Other Dates,,,,
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,T,"[['2S', '2S', '2S']]",3.0,3.0,2S
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,R,"[['3E', '3E', '3E']]",3.0,3.0,3E
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,S,"[['4,', '4,', '4,'], ['5', '5', '5']]",3.0,3.0,"4, 5"
+80048664,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/WASHTENAW_MILL_GROW_0001_6.jpeg,,Collector,"[['D-13', 'D-13', 'D-13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,D-13 Fisheries
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,Other Dates,,,,
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,T,"[['27N', '27N', '27N']]",3.0,3.0,27N
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,R,"[['3W', '3W', '3W']]",3.0,3.0,3W
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,S,"[['16', '16', '16']]",3.0,3.0,16
+80048677,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_082.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Crawford_Glory_GROW_083.jpeg,Collector,"[['E.', 'E.', 'E.'], ['Smiddy,', 'Smiddy,', 'Smiddy,'], ['G.', 'G.', 'G.'], ['Casey', 'Casey', 'Casey']]",3.0,3.0,"E. Smiddy, G. Casey"
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,Other Dates,,,,
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,T,"[['41N', '41N', '41N']]",3.0,3.0,41N
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,R,"[['32W', '32W', '32W']]",3.0,3.0,32W
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,S,"[['Many', 'Many', 'Many']]",3.0,3.0,Many
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,Collector,"[['B.', 'B.', 'B.'], ['Ziegler', 'Ziegler', 'Ziegler']]",3.0,3.0,B. Ziegler
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,Other Dates,,,,
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,T,"[['04N', '4N', '4N']]",3.0,2.0,4N
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,R,"[['05E', '5E', '5E']]",3.0,2.0,5E
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,S,"[['03', '3', '3']]",3.0,2.0,3
+80048679,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_049.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Livingston_Bishop_GROW_050.jpeg,Collector,,,,
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,Other Dates,,,,
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,T,"[['48N', '48N', '48N']]",3.0,3.0,48N
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,R,"[['27W', '27W', '27W']]",3.0,3.0,27W
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,S,"[['27', '27', '27']]",3.0,3.0,27
+80048680,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_018.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Marquette_Deer48N_27W_S27_GROW_019.jpeg,Collector,"[['Peterson', 'Peterson', 'Peterson']]",3.0,3.0,Peterson
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,Other Dates,,,,
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,T,"[['3N', '3N', '3N']]",3.0,3.0,3N
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,R,"[['7,', '7,', '7,'], ['8E', '8E', '8E']]",3.0,3.0,"7, 8E"
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,S,"[['7,', '7,', '7,'], ['12,', '12,', '12,'], ['13,', '13,', '13,'], ['18', '18', '18']]",3.0,3.0,"7, 12, 13, 18"
+80048681,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_16.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OAKLAND_WHITE_GROW_0020_17.jpeg,Collector,"[['Askam,', 'Askam,', 'Askam,'], ['Somers,', 'Somers,', 'Somers,'], ['Melling', 'Melling', 'Melling']]",3.0,3.0,"Askam, Somers, Melling"
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,Other Dates,,,,
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,T,"[['21N', '21N', '21N']]",3.0,3.0,21N
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,R,"[['3,', '3,', '3,'], ['4E', '4E', '4E']]",3.0,3.0,"3, 4E"
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,S,"[['1,', '1,6', '1,'], ['6', '', '6']]",3.0,2.0,"1, 6"
+80048682,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_LONGLK_GROW_0001_5.jpeg,Collector,"[['E.', 'E.', 'E.'], ['Smiddy,', 'Smiddy,', 'Smiddy,'], ['G.', 'G.', 'G.'], ['Casey', 'Casey', 'Casey']]",3.0,3.0,"E. Smiddy, G. Casey"
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,Other Dates,,,,
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,T,"[['23N', '23N', '23N']]",3.0,3.0,23N
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,R,"[['4E', '4E', '4E']]",3.0,3.0,4E
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,S,"[['5,', '5,', '5,'], ['8', '8', '8']]",3.0,3.0,"5, 8"
+80048683,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_4.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/OGEMAW_RIFLET23NR4ES56_GROW_0014_5.jpeg,Collector,"[['E.', 'E.', 'E.'], ['Smiddy,', 'Smiddy,', 'Smiddy,'], ['K.', 'K.', 'K.'], ['Kruger,', 'Kruger,', 'Kruger,'], ['K.', 'K.', 'K.'], ['Reed', 'Reed', 'Reed']]",3.0,3.0,"E. Smiddy, K. Kruger, K. Reed"
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,Other Dates,,,,
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,T,"[['1S', '1S', '1S']]",3.0,3.0,1S
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,R,"[['4E', '4E', '4E']]",3.0,3.0,4E
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,S,"[['3', '3', '3']]",3.0,3.0,3
+80048684,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_BIGSILVER_GROW_0001_9.jpeg,Collector,"[['Jackson', 'Jackson', 'Jackson'], ['Crew', '', 'Crew'], ['1994', '', '1994']]",3.0,2.3333333333333335,Jackson Crew 1994
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,Other Dates,,,,
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,T,"[['3S', '3S', '3S']]",3.0,3.0,3S
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,R,"[['7E', '7E', '7E']]",3.0,3.0,7E
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,S,"[['several', 'several', 'several']]",3.0,3.0,several
+80048685,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_7.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FORD_GROW_0001_8.jpeg,Collector,"[['Towns,', 'Towns,', 'Towns,'], ['Borgeson', 'Borgeson', 'Borgeson']]",3.0,3.0,"Towns, Borgeson"
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,Other Dates,,,,
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,T,"[['01S', '1S', '01S']]",3.0,2.0,01S
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,R,"[['04E', '4E', '04E']]",3.0,2.0,04E
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,S,"[['33', '33', '33']]",3.0,3.0,33
+80048686,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_10.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_FOURMILE_GROW_0001_11.jpeg,Collector,"[['District', 'District', 'District'], ['13', '13', '13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,District 13 Fisheries
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,Other Dates,,,,
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,T,"[['1S', '1S', '1S']]",3.0,3.0,1S
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,R,"[['3E', '3E', '3E']]",3.0,3.0,3E
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,S,"[['28', '28', '28']]",3.0,3.0,28
+80048687,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_6.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/WASHTENAW_WINNEWANNA_GROW_0001_7.jpeg,Collector,"[['D-13', 'D-13', 'D-13'], ['Fisheries', 'Fisheries', 'Fisheries']]",3.0,3.0,D-13 Fisheries
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,Other Dates,,,,
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,T,"[['43N', '43N', '43N']]",3.0,3.0,43N
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,R,"[['18W', '18W', '18W']]",3.0,3.0,18W
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,S,"[['14,', '14,', '14,'], ['23', '23', '23']]",3.0,3.0,"14, 23"
+80065853,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Delta_Jackpine_GROW_048.jpeg,,Collector,"[['Prout,', 'Prout,', 'Prout,'], ['P.', 'P.', 'P.'], ['Sweeney,', 'Sweeney,', 'Sweeney,'], ['St.', 'St.', 'St.'], ['John', 'John', 'John']]",3.0,3.0,"Prout, P. Sweeney, St. John"
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,Other Dates,,,,
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,T,"[['8N', '8N', '8N']]",3.0,3.0,8N
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,R,"[['8E', '8E', '8E']]",3.0,3.0,8E
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,S,"[['7', '7', '7']]",3.0,3.0,7
+80065854,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_001.jpeg,,Collector,"[['D.', 'D.', 'D.'], ['Barnard', 'Barnard', 'Barnard']]",3.0,3.0,D. Barnard
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,Other Dates,,,,
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,T,"[['8N', '8N', '8N']]",3.0,3.0,8N
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,R,"[['8E', '8E', '8E']]",3.0,3.0,8E
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,S,"[['7', '7', '7']]",3.0,3.0,7
+80065855,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_002.jpeg,,Collector,"[['D.', 'D.', 'D.'], ['Barnard', 'Barnard', 'Barnard']]",3.0,3.0,D. Barnard
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,Other Dates,,,,
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,T,"[['8N', '8N', '8N']]",3.0,3.0,8N
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,R,"[['8E', '8E', '8E']]",3.0,3.0,8E
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,S,"[['18', '18', '18']]",3.0,3.0,18
+80065856,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Genesee_MiddlePond_GROW_003.jpeg,,Collector,"[['D.', 'D.', 'D.'], ['Barnard', 'Barnard', 'Barnard']]",3.0,3.0,D. Barnard
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,Other Dates,,,,
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,T,"[['49N', '49N', '49N']]",3.0,3.0,49N
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,R,"[['10W', '10W', '10W']]",3.0,3.0,10W
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,S,"[['19', '19', '19']]",3.0,3.0,19
+80065857,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Luce_OldHeadquarters_GROW_028.jpeg,,Collector,,,,
