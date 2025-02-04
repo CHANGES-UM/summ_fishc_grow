@@ -1,0 +1,9 @@
+subject_id,URL 4,URL 8,workflow_id,task,data.value
+80048640,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/Livingston_Woodland_GROW_089.jpeg,,20655,T1,[{'II / 2': 3}]
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,20655,T1,[{'II / 2': 3}]
+80048654,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/single/OAKLAND_TIPSICO_GROW_0003_7.jpeg,,20655,T7,[{'VI / 6': 3}]
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,20655,T1,[{'0 / 0': 1}]
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,20655,T7,[{'I / 1': 1}]
+80048678,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_038.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss5/GROW_pages/double/Iron_Paint_GROW_039.jpeg,20655,T13,[{'II / 2': 1}]
+82937331,https://changes-ifr.s3.us-east-2.amazonaws.com/ss6/GROW/cards/double/Lapeer_NepessingLake_GROW_030.jpg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss6/GROW/cards/double/Lapeer_NepessingLake_GROW_031.jpg,20655,T1,[{'III / 3': 3}]
+82942103,https://changes-ifr.s3.us-east-2.amazonaws.com/ss3/GROW/double/Otsego_LittleBear_GROW_8.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss3/GROW/double/Otsego_LittleBear_GROW_6.jpeg,20655,T1,[{'V / 5': 3}]
