@@ -1,0 +1,152 @@
+subject_id,task,answer1,review1,answer2,review2,answer3,review3,answer4,review4,answer
+63264308,Intensity of Fishing - Summer,Field Left Blank,2, Medium,2,NA,NA,NA,NA,medium 
+63264316,Intensity of Fishing - Winter,None,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63264326,Intensity of Fishing - Winter,Field Left Blank,2, ,2,NA,NA,NA,NA,NA
+63264328,Intensity of Fishing - Winter,None,1, ,2, Field Left Blank,1,NA,NA,NA
+63264336,Intensity of Fishing - Summer,None,1, noneorverylight,2, Light,1,NA,NA,light
+63264336,Intensity of Fishing - Winter,None,2, noneorverylight,2,NA,NA,NA,NA,light
+63264349,Intensity of Fishing - Summer,Light,2, lightexceptfortroutatsturgeanr,1, lightexceptfortroutatsturgeonr,1,NA,NA,light
+63264355,Intensity of Fishing - Summer,Medium,2, mediuminformationlacking,2,NA,NA,NA,NA,medium 
+63264355,Intensity of Fishing - Winter,Light,2, lightinformationlacking,2,NA,NA,NA,NA,light
+63264356,Intensity of Fishing - Winter,none,2, None,2,NA,NA,NA,NA,None
+63264359,Intensity of Fishing - Winter,,1, none,2, None,1,NA,NA,None
+63264374,Intensity of Fishing - Winter,None,1, ,2, Field Left Blank,1,NA,NA,NA
+63264378,Intensity of Fishing - Winter,None,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63264399,Intensity of Fishing - Winter,Field Left Blank,2, ,2,NA,NA,NA,NA,NA
+63264411,Intensity of Fishing - Summer,Medium,2, expectmedium,2,NA,NA,NA,NA,medium 
+63264420,Intensity of Fishing - Summer,Medium,2, mediumtolight,2,NA,NA,NA,NA,medium 
+63264421,Intensity of Fishing - Summer,None,1, private,2, Field Left Blank,1,NA,NA,NA
+63264430,Intensity of Fishing - Winter,0,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63264438,Intensity of Fishing - Winter,None,2,0,1, Field Left Blank,1,NA,NA,NA
+63264444,Intensity of Fishing - Winter,None,2, nil,2,NA,NA,NA,NA,NA
+63264452,Intensity of Fishing - Winter,0,2, None,1, Field Left Blank,1,NA,NA,NA
+63264459,Intensity of Fishing - Summer,verylight,2, Light,2,NA,NA,NA,NA,light
+63264470,Intensity of Fishing - Winter,None,1, leftblank,1, Field Left Blank,2,NA,NA,NA
+63264502,Intensity of Fishing - Winter,,2, None,1, Field Left Blank,1,NA,NA,NA
+63264504,Intensity of Fishing - Summer,mediumsummerusageusforestservicecampgroupisfrequentlyusedasaboatunloadingarea,1, Medium,1, mediumsummerusageusforestservicecampgroundisfrequentlyusedasaboatunloadingarea,1, mediumcontinued,1,medium 
+63264507,Intensity of Fishing - Winter,None,1, ,2, Field Left Blank,1,NA,NA,NA
+63264515,Intensity of Fishing - Summer,light,2, Light,2,,,NA,NA,light
+63264515,Intensity of Fishing - Winter,none,2, None,2,,,NA,NA,None
+63264523,Intensity of Fishing - Winter,None,2, Field Left Blank,2,,,NA,NA,NA
+63264527,Intensity of Fishing - Winter,Medium,2, mediumwinterspearfishingreportedlyquiteheavy24shantiesnotuncommonofwhichmostareusedforpikefishing,1, mediumseecont,1,NA,NA,medium 
+63264533,Intensity of Fishing - Winter,light56shacks,2, Light,2,,,,,light
+63264552,Intensity of Fishing - Winter,,2, Field Left Blank,2,,,,,NA
+63264554,Intensity of Fishing - Winter,None,1, Medium,1, mediumheavy,2,NA,NA,Medium 
+63264562,Intensity of Fishing - Summer,None,1, Medium,1, lighttomedium,2,NA,NA,Medium 
+63264578,Intensity of Fishing - Summer,Heavy,1, moderatetoheavy,2, Field Left Blank,1,NA,NA,heavy
+63264578,Intensity of Fishing - Winter,Field Left Blank,2, moderatetoheavy,2,NA,NA,NA,NA,NA
+63264597,Intensity of Fishing - Winter,moderate,2, Medium,1, Light,1,NA,NA,Medium 
+63264613,Intensity of Fishing - Summer,fishingpressureasevidencedbyroadtolake,1, Field Left Blank,1, mediumfishingpressureasevidencedbyroadtolake,2,NA,NA,medium 
+63264614,Intensity of Fishing - Winter,None,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63264619,Intensity of Fishing - Winter,Field Left Blank,2, ,2,NA,NA,NA,NA,NA
+63264622,Intensity of Fishing - Winter,0,2, None,2,NA,NA,NA,NA,None
+63264632,Intensity of Fishing - Winter,Field Left Blank,2, ,2,NA,NA,NA,NA,NA
+63264661,Intensity of Fishing - Winter,,1, Field Left Blank,2, None,1,NA,NA,NA
+63264677,Intensity of Fishing - Winter,None,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63264683,Intensity of Fishing - Summer,leftblank,1, Medium,1, Field Left Blank,2,NA,NA,NA
+63264686,Intensity of Fishing - Winter,Light,2, Field Left Blank,2,,,,,NA
+63264693,Intensity of Fishing - Summer,Light,2, verylittlefishinghasreputationforproducingonlyperchifanything,1, verylittlefishinghasreputationforproducinglittleperchifanything,1,,,light
+63264726,Intensity of Fishing - Winter,,2, Field Left Blank,2,,,,,NA
+63264746,Intensity of Fishing - Summer,Medium,1, mediumheavyinthespring,1, mediumheavyinspring,2,NA,NA,medium 
+63264763,Intensity of Fishing - Summer,mediumtoheavy,2, Heavy,1,NA,NA,NA,NA,heavy
+63264765,Intensity of Fishing - Summer,Light,1, lighttomedium,2, Medium,1,NA,NA,medium 
+63264765,Intensity of Fishing - Winter,Medium,1, lighttomedium,2, Light,1,NA,NA,medium 
+63264780,Intensity of Fishing - Winter,Light,2, light,1,NA,NA,NA,NA,light
+63264807,Intensity of Fishing - Winter,,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63264820,Intensity of Fishing - Winter,,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63264821,Intensity of Fishing - Winter,None,1, Heavy,1, Field Left Blank,2,NA,NA,NA
+63264850,Intensity of Fishing - Summer,Medium,1, mediumcont,1, mediumcontontheeveningofaugust28therewere9boatswith15anglersonthelakerisenbargerreportedthatwinterfishingislimitedtoalittlespearingforpike,1,NA,NA,medium 
+63264910,Intensity of Fishing - Winter,probablynone,2, same,1, None,1,NA,NA,None
+63264922,Intensity of Fishing - Winter,Field Left Blank,2, ,2,NA,NA,NA,NA,NA
+63264928,Intensity of Fishing - Summer,Field Left Blank,2, ,2,NA,NA,NA,NA,NA
+63264928,Intensity of Fishing - Winter,Field Left Blank,2, ,2,NA,NA,NA,NA,NA
+63264937,Intensity of Fishing - Winter,None,2, Field Left Blank,1, leftblank,1,NA,NA,NA
+63264947,Intensity of Fishing - Summer,verylight,2, Light,2,NA,NA,NA,NA,light
+63264947,Intensity of Fishing - Winter,,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63264961,Intensity of Fishing - Summer,lighttoheavyconsiderablevariation,2, Heavy,1, lighttoheavyconsiderablevariety,1,NA,NA,medium 
+63264974,Intensity of Fishing - Winter,,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63264998,Intensity of Fishing - Summer,Light,2, light,2,NA,NA,NA,NA,light
+63265003,Intensity of Fishing - Summer,medheavy,2, modheavy,1, mediumheavy,1,NA,NA,heavy
+63265003,Intensity of Fishing - Winter,medheavy,2, modheavy,1, mediumheavy,1,NA,NA,heavy
+63265023,Intensity of Fishing - Winter,,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63265024,Intensity of Fishing - Summer,lighttomedium,2, Medium,1, Light,1,NA,NA,medium 
+63265024,Intensity of Fishing - Winter,lightheavyonmudbay,2, Light,2,NA,NA,NA,NA,light
+63265033,Intensity of Fishing - Winter,light,2, Light,2,NA,NA,NA,NA,light
+63265042,Intensity of Fishing - Winter,,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63265067,Intensity of Fishing - Summer,Field Left Blank,2, Light,2,NA,NA,NA,NA,light
+63265077,Intensity of Fishing - Winter,fallmediumwinter,1, None,1, Field Left Blank,2,NA,NA,NA
+63265090,Intensity of Fishing - Summer,verylightifany,2, Light,2,NA,NA,NA,NA,light
+63265136,Intensity of Fishing - Summer,Light,1, Medium,1, lighttomedium,2,NA,NA,NA
+63265160,Intensity of Fishing - Winter,None,1, Field Left Blank,2, leftblank,1,NA,NA,NA
+63265193,Intensity of Fishing - Summer,Heavy,2, heavytomedium,2,NA,NA,NA,NA,heavy
+63265221,Intensity of Fishing - Summer,None,2, nil,2,NA,NA,NA,NA,None
+63265221,Intensity of Fishing - Winter,None,2, nil,2,NA,NA,NA,NA,None
+63265242,Intensity of Fishing - Winter,None,1, na,1, ,1, Field Left Blank,1,NA
+63265256,Intensity of Fishing - Winter,None,1, ,2, Field Left Blank,2,NA,NA,NA
+63265275,Intensity of Fishing - Winter,Field Left Blank,2, ,2,NA,NA,NA,NA,NA
+63265288,Intensity of Fishing - Winter,Field Left Blank,2, None,1, ,1,NA,NA,NA
+63265293,Intensity of Fishing - Winter,Field Left Blank,2, unknown,2,NA,NA,NA,NA,NA
+63265295,Intensity of Fishing - Winter,None,1, ,2, Field Left Blank,1,NA,NA,NA
+63265305,Intensity of Fishing - Winter,lightreportwintersumer,1, lightreportwintersummer,2, Light,1,NA,NA,light
+63265334,Intensity of Fishing - Winter,None,2, probablynone,2,NA,NA,NA,NA,None
+63265354,Intensity of Fishing - Summer,Light,1, mediumtoheavy,2, Heavy,1,NA,NA,heavy
+63265362,Intensity of Fishing - Summer,mediumtoheavy,2, Heavy,1, Medium,1,NA,NA,heavy
+63265363,Intensity of Fishing - Summer,Medium,2, lighttomedium,2,NA,NA,NA,NA,medium 
+63265363,Intensity of Fishing - Winter,Medium,2, lighttomedium,2,NA,NA,NA,NA,medium 
+63265365,Intensity of Fishing - Summer,Medium,1, mediumtoheavy,2, Heavy,1,NA,NA,NA
+63265370,Intensity of Fishing - Winter,None,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63265381,Intensity of Fishing - Summer,Heavy,2, moderatelyheavy,2,NA,NA,NA,NA,heavy
+63265422,Intensity of Fishing - Winter,notknown,2, Field Left Blank,1, notknow,1,NA,NA,NA
+63265423,Intensity of Fishing - Summer,Medium,2, mediumcont,2, mediumontheeveningofaugust28therewere9boatswith15anglersonthelakerisenbargerreportedthatwinterfishingislimitedtoalittlespearingforpike,1,NA,NA,medium 
+63265432,Intensity of Fishing - Summer,Heavy,1, None,1, Field Left Blank,2,NA,NA,heavy
+63265459,Intensity of Fishing - Winter,None,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63265462,Intensity of Fishing - Winter,verylightornone,2, Light,2,NA,NA,NA,NA,light
+63265482,Intensity of Fishing - Winter,,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63265522,Intensity of Fishing - Summer,Field Left Blank,2, None,2,NA,NA,NA,NA,NA
+63265544,Intensity of Fishing - Winter,None,1, leftblank,1, Field Left Blank,2,NA,NA,NA
+63265553,Intensity of Fishing - Summer,None,1, lighttonone,2, lighttoone,1,NA,NA,light
+63265572,Intensity of Fishing - Summer,Medium,2, springmedium,2,NA,NA,NA,NA,medium 
+63265572,Intensity of Fishing - Winter,None,1, leftblank,1, Field Left Blank,2,NA,NA,NA
+63265581,Intensity of Fishing - Winter,None,2, noneonthisuse,2,NA,NA,NA,NA,NA
+63265582,Intensity of Fishing - Winter,none,1, na,1, Field Left Blank,2,NA,NA,NA
+63265585,Intensity of Fishing - Summer,None,2, Field Left Blank,1, leftblank,1,NA,NA,NA
+63265585,Intensity of Fishing - Winter,None,2, Field Left Blank,1, leftblank,1,NA,NA,NA
+63265587,Intensity of Fishing - Summer,lighttomediumcont,2, Medium,1, lighttomedium,1,NA,NA,medium 
+63265619,Intensity of Fishing - Winter,na,1, None,1, leftblank,1, Field Left Blank,1,NA
+63265630,Intensity of Fishing - Winter,lightofnone,1, lightornone,2, None,1,NA,NA,light
+63265632,Intensity of Fishing - Winter,verylight,2, Light,2,NA,NA,NA,NA,light
+63265671,Intensity of Fishing - Summer,lightwasmediuminpast,2, lightwasmediuminthepast,1, Light,1,NA,NA,medium 
+63265680,Intensity of Fishing - Winter,heavyforcrappiesandspearing,2, Heavy,2,NA,NA,NA,NA,heavy
+63265686,Intensity of Fishing - Summer,lightnonereported,2, Light,1,NA,NA,NA,NA,light
+63265698,Intensity of Fishing - Summer,Light,1, Medium,1, lightmed,2,NA,NA,medium 
+63265707,Intensity of Fishing - Winter,Heavy,2, reportedheavy,2,NA,NA,NA,NA,heavy
+63265735,Intensity of Fishing - Winter,Light,2, verylight,2,NA,NA,NA,NA,light
+63265737,Intensity of Fishing - Summer,None,2, almostnone,2,NA,NA,NA,NA,light
+63265774,Intensity of Fishing - Winter,None,2, reportednone,2,NA,NA,NA,NA,None
+63265780,Intensity of Fishing - Summer,moderatetofairlyheavy,2, Heavy,2,NA,NA,NA,NA,heavy
+63265780,Intensity of Fishing - Winter,lightnotobserved,2, Light,2,NA,NA,NA,NA,light
+63265810,Intensity of Fishing - Summer,Light,1, lightrestrictedbyowners,2, lightrestictedbyowners,1,NA,NA,light
+63265822,Intensity of Fishing - Summer,Medium,2, probablymedium,2,NA,NA,NA,NA,medium 
+63265825,Intensity of Fishing - Summer,None,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63265827,Intensity of Fishing - Summer,leftblank,1, Light,2, Field Left Blank,1,NA,NA,light
+63265883,Intensity of Fishing - Winter,nodata,1, Field Left Blank,2, None,1,NA,NA,NA
+63265884,Intensity of Fishing - Winter,None,1, Field Left Blank,2,NA,NA,NA,NA,NA
+63265899,Intensity of Fishing - Summer,lighttomedlast3yearscosideredheavybefore,1, lighttomedlast3yearsconsideredheavybefore,2, Medium,1,NA,NA,medium 
+63265920,Intensity of Fishing - Summer,None,1, leftblank,1, Field Left Blank,2,NA,NA,NA
+63265920,Intensity of Fishing - Winter,None,1, leftblank,1, Field Left Blank,2,NA,NA,NA
+63265922,Intensity of Fishing - Summer,Field Left Blank,2, Light,2,NA,NA,NA,NA,light
+63265945,Intensity of Fishing - Winter,Heavy,2, heavyterrific,2,NA,NA,NA,NA,heavy
+63265947,Intensity of Fishing - Summer,medium,2, Medium,2,NA,NA,NA,NA,medium 
+63265955,Intensity of Fishing - Summer,lighttomedium,2, Medium,1, Light,1,NA,NA,medium 
+63265962,Intensity of Fishing - Summer,Medium,2, lighttomedium,2,NA,NA,NA,NA,medium 
+63265972,Intensity of Fishing - Summer,None,1, Field Left Blank,2, Light,1,NA,NA,NA
+63266023,Intensity of Fishing - Winter,None,1, unknown,2, Field Left Blank,1,NA,NA,NA
+63266040,Intensity of Fishing - Winter,,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63266048,Intensity of Fishing - Winter,Medium,1, mediumtolight,2, Light,1,NA,NA,medium 
+63266050,Intensity of Fishing - Winter,Light,2, light,2,NA,NA,NA,NA,light
+63266053,Intensity of Fishing - Winter,Field Left Blank,2, ,2,NA,NA,NA,NA,NA
+63266056,Intensity of Fishing - Winter,,2, Field Left Blank,2,NA,NA,NA,NA,NA
+63266059,Intensity of Fishing - Winter,,2, Light,1, Field Left Blank,1,NA,NA,NA
+63266061,Intensity of Fishing - Winter,probablymorethansummer,2, Field Left Blank,1, Medium,1,NA,NA,medium 
+63266068,Intensity of Fishing - Summer,Medium,2, mediumlight,1, mediumlightlep,1,NA,NA,medium 
+63266068,Intensity of Fishing - Winter,None,1, Field Left Blank,1, ,2,NA,NA,NA
