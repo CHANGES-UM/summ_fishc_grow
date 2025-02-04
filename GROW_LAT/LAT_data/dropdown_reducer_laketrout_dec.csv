@@ -1,0 +1,5 @@
+subject_id,URL 4,URL 8,workflow_id,task,Full Task Text,data.value
+82937343,https://changes-ifr.s3.us-east-2.amazonaws.com/ss6/GROW/cards/double/Roscommon_Higgins_GROW_403.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss6/GROW/cards/double/Roscommon_Higgins_GROW_404.jpeg,20391,T1,First row age group [Dropdown],[{'VI / 6': 3}]
+82937343,https://changes-ifr.s3.us-east-2.amazonaws.com/ss6/GROW/cards/double/Roscommon_Higgins_GROW_403.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss6/GROW/cards/double/Roscommon_Higgins_GROW_404.jpeg,20391,T7,Second row age group [Dropdown],[{'VIII / 8': 3}]
+82937343,https://changes-ifr.s3.us-east-2.amazonaws.com/ss6/GROW/cards/double/Roscommon_Higgins_GROW_403.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss6/GROW/cards/double/Roscommon_Higgins_GROW_404.jpeg,20391,T13,Third row age group [Dropdown],[{'IX / 9 ': 3}]
+82937343,https://changes-ifr.s3.us-east-2.amazonaws.com/ss6/GROW/cards/double/Roscommon_Higgins_GROW_403.jpeg,https://changes-ifr.s3.us-east-2.amazonaws.com/ss6/GROW/cards/double/Roscommon_Higgins_GROW_404.jpeg,20391,T19,Fourth row age group [Dropdown],[{'X / 10': 3}]
