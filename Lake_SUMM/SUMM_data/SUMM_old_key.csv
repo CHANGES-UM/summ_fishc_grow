@@ -1,0 +1,17 @@
+task,column_name
+T0,Public Fishing
+T1,Temperature_Surface
+T2,Temperature_Thermocline
+T3,Temperature_Deep Water
+T4,Oxygen
+T5,Size_Acres
+T6,Maximum Depth
+T7,Turbidity
+T8,Combo
+T9,Combo
+T10,Alkalinity
+T11,Dam in outlet
+T12,Height of dam
+T13,Passable for fish
+T14,Combo
+T15,Recreational dev

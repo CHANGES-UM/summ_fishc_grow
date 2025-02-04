@@ -1,0 +1,44 @@
+task,column_name
+T0,Cottages
+T1,Hotels and Homes
+T2,Boat Resorts 
+T3,Liveries
+T4,Combo
+T5,Intensity of Fishing_Summer
+T6,Intensity of Fishing_Winter
+T7,Combo
+T8,Area
+T9,Shore Development
+T10,Max Depth
+T11,Combo
+T12,Area of Vegetation
+T13,Percent shoal
+T14,Secchi disk 
+T15,Temperature_Surface
+T16,Thermocline_Present
+T17,Thermocline_location
+T18,Combo
+T19,Dissolved oxygen above thermocline
+T20,Dissolved oxygen below thermocline
+T21,Methyl Orange Alk Range
+T22,Combo
+T23,Temperature_Bottom
+T24,Dissolved oxygen in thermocline
+T25,Dam in outlet
+T26,Height of dam
+T27,Dam effect on fish movements
+T28,Combo
+,
+Winter,
+3b80a3920e185,Heavy
+6aca21c77aff88,Medium
+fa4df6d717379,Light
+fedb9de33098,None
+3355f39bfe739,Field Left Blank
+,
+Summer,
+34009c0e3fa06,Heavy
+c5eb1e2455add8,Medium
+9351923e4e797,Light
+6ecd14051e96a,None
+65e19f00b52728,Field Left Blank
