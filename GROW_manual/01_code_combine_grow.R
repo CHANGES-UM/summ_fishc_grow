@@ -82,9 +82,9 @@ blg<-read.csv("GROW_BLG/blg_grow_all_qaqc.csv")  %>%
 bnt<-read.csv("GROW_BNT/bnt_grow_all_qaqc.csv")  %>% 
   mutate(species = "brown_trout")
 cis<-read.csv("GROW_CIS/cis_grow_all_qaqc.csv")  %>% 
-  mutate(species = "cisco")
+  mutate(species = "lake_herring")
 cws<-read.csv("GROW_CWS/cws_grow_qaqc.csv")  %>% 
-  mutate(species = "common_white_sucker")
+  mutate(species = "white_sucker")
 lat<-read.csv("GROW_LAT/lat_grow_all_qaqc.csv")  %>% 
   mutate(species = "lake_trout")
 lmb<-read.csv("GROW_LMB/lmb_grow_all_qaqc.csv")  %>% 
@@ -92,7 +92,7 @@ lmb<-read.csv("GROW_LMB/lmb_grow_all_qaqc.csv")  %>%
 nop<-read.csv("GROW_NOP/nop_grow_all_qaqc.csv")  %>% 
   mutate(species = "northern_pike")
 psf<-read.csv("GROW_PSF/psf_grow_all_qaqc.csv")  %>% 
-  mutate(species = "pumpkinseed_sunfish")
+  mutate(species = "pumpkinseed")
 rbt<-read.csv("GROW_RBT/rbt_grow_all_qaqc.csv")  %>% 
   mutate(species = "rainbow_trout")
 rkb<-read.csv("GROW_RKB/rkb_grow_all_qaqc.csv")  %>% 
@@ -154,7 +154,7 @@ lwf<-read.csv("GROW_manual/lake_whitefish.csv", na.strings = c("", "NA")) %>%
   drop_na('card_name')%>% 
   select(card_name, age_group, number_of_fish, length_range, mean_length, comments, species)
 lsf<-read.csv("GROW_manual/longear_sunfish.csv", na.strings = c("", "NA")) %>% 
-  mutate(species = "longear_sunfish") %>%
+  mutate(species = "northern_longear_sunfish") %>%
   drop_na('card_name')%>% 
   select(card_name, age_group, number_of_fish, length_range, mean_length, comments, species)
 mus<-read.csv("GROW_manual/muskie.csv", na.strings = c("", "NA")) %>% 
@@ -174,7 +174,7 @@ sau<-read.csv("GROW_manual/sauger.csv", na.strings = c("", "NA")) %>%
   drop_na('card_name')%>% 
   select(card_name, age_group, number_of_fish, length_range, mean_length, comments, species)
 sme<-read.csv("GROW_manual/smelt.csv", na.strings = c("", "NA")) %>% 
-  mutate(species = "smelt") %>%
+  mutate(species = "rainbow_smelt") %>%
   drop_na('card_name')%>% 
   select(card_name, age_group, number_of_fish, length_range, mean_length, comments, species)
 spl<-read.csv("GROW_manual/splake.csv", na.strings = c("", "NA")) %>% 
@@ -302,6 +302,7 @@ all_grow <- all_grow[, c(1,16, 12, 7, 17, 2, 11, 15,13,14, 3,4,5,8,9,10,6,19,18)
 
 #### QAQC ####
 #* look for outliers #### 
+##these were checked and updated in the individual cleaning code or confirmed to be true to the card
 summary <- all_grow %>%
   group_by(species, age_group) %>%
   summarise(
@@ -318,18 +319,18 @@ grow_IQR<-left_join(all_grow, summary, by = c("species", "age_group")) %>%
   filter(check == "TRUE") %>% 
   select(subject_id, species, begin_date_month, age_group, fish_count, length_min_mm, length_max_mm, length_mean_mm, url_front, url_back, lower_whisk, upper_whisk, check)
 
-#these were checked and updated in the individual cleaning code or confirmed to be true to the card
+
 
 ##* correct lakes with mulitple new keys ####
-wrong<-all_grow %>% 
-  group_by(lakename,county) %>% 
-  summarise(count = n_distinct(new_key))  %>% 
-  filter(count > 1 ) 
+#wrong<-all_grow %>% 
+ # group_by(lakename,county) %>% 
+  #summarise(count = n_distinct(new_key))  %>% 
+  #filter(count > 1 ) 
 
-grow_check<-left_join(all_grow, wrong, by= c('lakename', 'county')) %>% 
-  filter(!is.na(count)) %>% 
-  distinct(subject_id, .keep_all = TRUE) %>% 
-  select(subject_id, new_key, lakename, county, url_front, url_back)
+#grow_check<-left_join(all_grow, wrong, by= c('lakename', 'county')) %>% 
+ # filter(!is.na(count)) %>% 
+  #distinct(subject_id, .keep_all = TRUE) %>% 
+  #select(subject_id, new_key, lakename, county, url_front, url_back)
 
 #write.csv(grow_check, "/Users/katelynking/Desktop/grow_check.csv", row.names = FALSE)
 grow_updated_new_key<-read.csv("GROW_general/grow_check_new_key.csv") %>% 
@@ -340,21 +341,28 @@ grow_updated_new_key<-read.csv("GROW_general/grow_check_new_key.csv") %>%
 #rows_update() modifies existing rows in all_grow with new data from updated_new_key
 all_grow<- rows_update(all_grow, grow_updated_new_key, by = "subject_id", unmatched = "ignore")
 
-#write.csv(all_grow, "/Users/katelynking/Desktop/grow_qaqc_27Nov2024.csv", row.names = FALSE)
-
 #grow_no_new_key<-filter(all_grow,is.na( new_key)) %>% 
  # distinct(subject_id, .keep_all = TRUE) %>%  
   #select(subject_id, new_key, lakename, county, url_front, url_back)
 
+#add lakes with manual matching of new key and nhdid 
 grow_no_new_key<-read.csv("GROW_general/grow_no_new_key.csv")  %>% 
   select(subject_id, new_key) #keep only subject ids and new keys but read in the whole table if you want to see comments 
 
+#link to nhdid when available  
+mdnr_crosswalk<-read.csv("whole_database/mdnr_crosswalk.csv") %>% 
+  select(new_key, nhdid) %>% 
+  distinct(new_key, .keep_all = TRUE)
+
 all_grow<- rows_update(all_grow, grow_no_new_key, by = "subject_id") %>% 
-  mutate(age_group = ifelse(subject_id == 58746421, NA, age_group)) #one update after making figure 
+  mutate(age_group = ifelse(subject_id == 58746421, NA, age_group)) %>% #one update after making figure 
+  left_join(mdnr_crosswalk) %>%
+  mutate(filename1 = basename(url_front), #pull out the file name 
+         filename2 = basename(url_back)) %>% 
+  select(-c("url_front", "url_back"))  
 
-#new keys -> MDNR keys 
-#remove url and replace with image name 
-
+write.csv(all_grow, "C:\\Users\\kingk42\\Desktop\\grow_data.csv", row.names = FALSE)
+write.csv(all_grow, "GROW_general/grow_qaqc_Feb2025.csv", row.names = FALSE)
 
 
 

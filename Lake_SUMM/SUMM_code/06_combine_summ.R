@@ -106,66 +106,32 @@ summ_updated_new_key<-read.csv("Lake_SUMM/SUMM_data/manual_review_data/new_key_s
 #rows_update() modifies existing rows in data with new data from updated_new_key
 all_summ<- rows_update(new_old_dec_match, summ_updated_new_key, by = "subject_id", unmatched = "ignore") 
 
-#observations with no new_key, examine with TRS and maps to identify 
+#observations with no new_key, examine with TRS and maps to identify and join to nhd
 #summ_no_new_key<-filter(all_summ,is.na( new_key)) %>% 
  # select(subject_id, new_key, lakename, county, url_front, url_back) 
-
 summ_no_new_key<-read.csv("Lake_SUMM/SUMM_data/summ_no_new_key.csv") %>% 
   select(subject_id, new_key) #keep only subject ids and new keys but read in the whole table if you want to see comments 
 
+#link to nhdid when available  
+mdnr_crosswalk<-read.csv("whole_database/mdnr_crosswalk.csv") %>% 
+  select(new_key, nhdid) %>% 
+  distinct(new_key, .keep_all = TRUE)
+
 all_summ<- rows_update(all_summ, summ_no_new_key, by = "subject_id") %>% 
   filter((begin_date_year > 1915 | is.na(begin_date_year)) & subject_id != 58688648 & subject_id != 58688666 & subject_id != 58687292) %>% #remove cards that are referencing older dates and more dups and not summary cards 
-  mutate(lakename = ifelse(lakename == "SUMM", "CHARLEVOIX", lakename)) #update lakename that is still wrong 
+  mutate(lakename = ifelse(lakename == "SUMM", "CHARLEVOIX", lakename)) %>% #update lakename that is still wrong 
+  rename(bullhead_species=bullhead_not_specified, 
+         lake_herring = cisco_herring_whitefish, 
+         bowfin = bowfin_dogfish,
+         ) %>% 
+  mutate(blacknose_shiner = ifelse(blacknose_minnow >0, 1, blacknose_shiner)) %>% #combine these species just to blacknose_shiner
+  select(-c(blacknose_minnow)) %>%
+  left_join(mdnr_crosswalk) %>%
+  mutate(filename1 = basename(url_front), #pull out the file name 
+         filename2 = basename(url_back)) %>% 
+  select(-c("url_front", "url_back"))  
 
-sum(is.na(all_summ$new_key)) #12 cards left unmatched 
+ 
 
-write.csv(all_summ, "/Users/katelynking/Desktop/all_summ_Jan2025.csv", row.names = FALSE)
-
-
-#*plot enviro variables #### 
-plot(all_summ$secchi_max_m)
-plot(all_summ$secchi_min_m)
-plot(all_summ$min_shoal_pct)
-plot(all_summ$max_shoal_pct)
-plot(all_summ$resorts_min_n)
-plot(all_summ$resorts_max_n)
-plot(all_summ$liveries_max_n)
-plot(all_summ$liveries_min_n)
-plot(all_summ$cottages_max_n)
-plot(all_summ$cottages_min_n)
-plot(all_summ$hotels_homes_max_n)
-plot(all_summ$hotels_homes_min_n)
-plot(all_summ$methylorange_alk_min_ppm)
-plot(all_summ$methylorange_alk_max_ppm) # check one outlier 
-plot(all_summ$temp_bottom_max_c) # check 2 outlier 
-plot(all_summ$temp_bottom_min_c)
-plot(all_summ$temp_surface_max_c)
-plot(all_summ$temp_surface_min_c)# check 3 outlier 
-plot(all_summ$do_above_thermo_max_ppm)# check one outlier 
-plot(all_summ$do_above_thermo_min_ppm) #check outliers 
-plot(all_summ$do_below_thermo_max_ppm)
-plot(all_summ$do_below_thermo_min_ppm)
-plot(all_summ$do_in_thermo_max_ppm)
-plot(all_summ$do_in_thermo_min_ppm)
-
-#link new key to the new MDNR ID
-MDNR_xwalk<-read.csv("/Users/katelynking/Desktop/MDNR_xwalk.csv") %>%
-  rename(new_key = NewKey) %>% 
-  select(MDNRID, new_key)
-
-summ_newkeys<-all_summ%>% 
-  select(subject_id, new_key) %>% 
-  drop_na(new_key)
-
-all_summ_xwalk<-left_join(summ_newkeys, MDNR_xwalk)
-
-ifr_points<-readxl::read_excel("/Users/katelynking/Desktop/IFR_Lake_Points.xlsx") %>% 
-  rename(new_key = NEW_KEY)
-
-ifr_summ_xwalk<-left_join(summ_newkeys, ifr_points)
-
-#new keys -> MDNR keys 
-
-
-
-#remove URL at the end 
+write.csv(all_summ, "C:\\Users\\kingk42\\Desktop\\summ_data.csv", row.names = FALSE)
+write.csv(all_summ, "Lake_SUMM/summ_data_Feb2025.csv", row.names = FALSE)

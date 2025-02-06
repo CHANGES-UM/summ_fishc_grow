@@ -1,6 +1,7 @@
 library(dplyr)
 library(tidyr)
 library(stringr)
+library(rqdatatable)
 
 #subjects that were removed from workflows for one issue or another and should not be included
 problem_subjects <- read.csv('whole_database/AFDMF_problem_subjects.csv')
@@ -68,7 +69,12 @@ fishc_qa_qc<-left_join(basic_dat, text_dat) %>%
 #write.csv(fishc_check, "/Users/katelynking/Desktop/fishc_check.csv", row.names = FALSE)
 
 fishc_updated_new_key<-read.csv("FISHc/FISHc_data/manual_reviews/fishc_new_key_checked.csv") %>% 
-  select(subject_id, new_key, lakename, county) #updated some of the lake names and counties as well
+  select(subject_id, new_key, lakename, county) %>% #updated some of the lake names and counties as well
+  mutate(new_key = ifelse(lakename == "ROSE", '12-89', new_key),
+         new_key = ifelse(lakename == "MESSENGER", '12-58', new_key),
+         new_key = ifelse(lakename == "RANDALL", '12-51', new_key)
+         ) #some new_keys got converted to dates
+
 
 #rows_update() modifies existing rows in all_grow with new data from updated_new_key
 all_fishc<- rows_update(fishc_qa_qc, fishc_updated_new_key, by = "subject_id", unmatched = "ignore") %>% 
@@ -76,11 +82,91 @@ all_fishc<- rows_update(fishc_qa_qc, fishc_updated_new_key, by = "subject_id", u
          & subject_id !=58755216 & subject_id !=58755217& subject_id != 82941858 & subject_id !=82942119
          & subject_id !=58755237 & subject_id !=58755239) #remove grow cards (these are in the grow dataset)
 
+#try to fill in lakes with no new key 
 #fishc_no_new_key<-filter(all_fishc,is.na( new_key)) 
 fishc_no_new_key<-read.csv('FISHc/FISHc_data/fishc_nonewkey.csv') %>%
   select(subject_id, new_key)
 all_fishc<- rows_update(all_fishc, fishc_no_new_key, by = "subject_id", unmatched = "ignore") #unmatched = "ignore"` if you want to ignore these `y` rows
 
-write.csv(all_fishc, "FISHc/FISHc_data/final_data/fishc_qaqc_Jan2025.csv", row.names = FALSE)
+#link to nhdid when available  
+mdnr_crosswalk<-read.csv("whole_database/mdnr_crosswalk.csv") %>% 
+  select(new_key, nhdid) %>% 
+  distinct(new_key, .keep_all = TRUE)
+
+#final clean up 
+all_fishc =all_fishc %>% 
+  mutate(begin_date_year = ifelse(subject_id == 58752852, 1978, begin_date_year),
+         end_date_year = ifelse(subject_id == 58751307, 1956, end_date_year),
+         begin_date_year = ifelse(subject_id == 58751789, 1959,begin_date_year), 
+         begin_date_year = ifelse(subject_id == 58642478,1947,begin_date_year), 
+         begin_date_year = ifelse(subject_id == 58751845,1954,begin_date_year), 
+         begin_date_year = ifelse(subject_id == 58750762,1948,begin_date_year), 
+         begin_date_year = ifelse(subject_id == 58749839,1938,begin_date_year), 
+         begin_date_year = ifelse(subject_id == 58750910,1980,begin_date_year), 
+         ) %>% 
+  rename(banded_killifish=bandedkillifishmenonakillifish, 
+         blackstripe_topminnow= blackbandedtopm,
+         black_bullhead = blackbullhead, 
+         blackchin_shiner= blackchinblackchinshiner, 
+         black_crappie = blackcrappie,
+         blacknose_shiner = blacknoseblacknosedshiner,
+         bluegill = bluegill,
+         bluntnose_minnow = bluntnosedbluntnoseminnow, 
+         bowfin = bowfindogfish, 
+         brook_silverside  = brooksilversidesilversides,
+         brook_stickleback = brookstickleback,
+         brook_trout = brooktrout,
+         brown_bullhead = brownbullhead,
+         brown_trout = browntrout,
+         central_mudminnow = centralmudminnowmudminnow, 
+         lake_herring = cisco, 
+         common_carp = carp,
+         common_shiner = commonshiner, 
+         white_sucker = commonsuckerwhitesucker, 
+         fathead_minnow = fatheadfatheadminnow,
+         finescale_dace = finescaleddace,
+         golden_shiner = goldenshiner,
+         green_sunfish = greensunflsh,
+         iowa_darter = iowadarter,
+         johnny_darter = johnnydarter,
+         lake_chubsucker = lakechubsucker,
+         lake_trout = laketrout, 
+         largemouth_bass = largemouthbass,
+         least_darter = leastdarter, 
+         logperch = logperch, 
+         northern_longear_sunfish = longearedlongearsunflsh, 
+         longnose_gar = longnosegar, 
+         mimic_shiner = mimicshiner, 
+         mottled_sculpin = muddlermottledsculpincbbairdi, 
+         grass_pickerel = mudpickerelgrasspickerel, 
+         shorthead_redhorse = mulletredhorse, 
+         muskellunge = muskiemuskellunge, 
+         northern_pike= northernpike, 
+         northern_redbelly_dace = nredbellydaceredbellieddace, 
+         northern_pearl_dace = pearldacenortherndace,
+         yellow_perch = perchyellowperch,
+         pumpkinseed = pumpkinseed, 
+         rainbow_trout = rainbowtrout, 
+         rock_bass = rockbass, 
+         sand_shiner = sandshinerstrawcoloredshiner, 
+         sauger = sauger, 
+         shortnose_gar = shortnosegar, 
+         smallmouth_bass = smallmouthbass, 
+         spottail_shiner = spottailspottailshiner, 
+         spotted_gar = spottedgar, 
+         tadpole_madtom = tadpolemadtom, 
+         walleye = walleyeyellowpikeperch, 
+         warmouth = warmouth, 
+         white_bass = whitebass,
+         yellow_bullhead = yellowbullhead) %>% 
+  left_join(mdnr_crosswalk) %>%
+mutate(filename1 = basename(url_front), #pull out the file name 
+       filename2 = basename(url_back)) %>% 
+  select(-c("url_front", "url_back"))  
+ 
+  
+
+write.csv(all_fishc, "FISHc/FISHc_data/final_data/fishc_qaqc_Feb2025.csv", row.names = FALSE)
+write.csv(all_fishc, "C:\\Users\\kingk42\\Desktop\\fishc_qaqc_Feb2025.csv", row.names = FALSE)
 
 
