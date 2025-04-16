@@ -67,6 +67,7 @@ subjects_lakenames<-read.csv('whole_database/basic_subjects_Jan2023.csv')%>% #43
          lakename = ifelse(subject_id == "82937323", "NINTHSTREET", lakename)
          ) 
 
+#note that URL images were used during the curation process, however links were not permanent and therefore only image names were saved for linking to permanent images in DeepBlue Data
 subjects_urls<-read.csv('whole_database/basic_subjects_Jan2023.csv')%>% 
   separate(col=metadata, c("trash1", "trash2", "trash3", "filename", "trash4","trash5", "trash6", "url_front", "trash8", "trash9", "trash10", "url_back", "trash11"), sep = '"') %>% 
   select(subject_id, url_front, url_back) %>% 
@@ -82,7 +83,7 @@ blg<-read.csv("GROW_BLG/blg_grow_all_qaqc.csv")  %>%
 bnt<-read.csv("GROW_BNT/bnt_grow_all_qaqc.csv")  %>% 
   mutate(species = "brown_trout")
 cis<-read.csv("GROW_CIS/cis_grow_all_qaqc.csv")  %>% 
-  mutate(species = "lake_herring")
+  mutate(species = "cisco")
 cws<-read.csv("GROW_CWS/cws_grow_qaqc.csv")  %>% 
   mutate(species = "white_sucker")
 lat<-read.csv("GROW_LAT/lat_grow_all_qaqc.csv")  %>% 
@@ -276,7 +277,7 @@ all_subjects<-read.csv("whole_database/duplicates_annotated.csv") %>% #1198
  # filter(sum_na > 0
   #       ) #213 cards #139 cards 
 
-### SEE IF YOU CAN FILL IN NEW KEY USING HUMPHRIES or metadatabase #### 
+### SEE IF YOU CAN FILL IN NEW KEY USING or metadatabase #### 
 lake_match2<-read.csv("whole_database/metadatabase_lake_match_20Apr23.csv") %>% 
   select(New_Keys, subject_ids) %>% 
   separate_rows(subject_ids, sep = ";") %>%
@@ -297,8 +298,6 @@ all_grow<-rbind( GROW, zoo_growth) %>% #starts with 62713
 #re-order columns 
 all_grow <- all_grow[, c(1,16, 12, 7, 17, 2, 11, 15,13,14, 3,4,5,8,9,10,6,19,18)]  
 
-#write.csv(all_grow, "/Users/katelynking/Desktop/all_grow_21NOV2023.csv", row.names = FALSE)
-#all_grow<-read.csv("/Users/katelynking/Desktop/all_grow_21NOV2023.csv")
 
 #### QAQC ####
 #* look for outliers #### 
@@ -318,7 +317,6 @@ grow_IQR<-left_join(all_grow, summary, by = c("species", "age_group")) %>%
   mutate(check = ifelse(length_mean_mm > upper_whisk | length_mean_mm < lower_whisk, TRUE, FALSE)) %>%
   filter(check == "TRUE") %>% 
   select(subject_id, species, begin_date_month, age_group, fish_count, length_min_mm, length_max_mm, length_mean_mm, url_front, url_back, lower_whisk, upper_whisk, check)
-
 
 
 ##* correct lakes with mulitple new keys ####
@@ -349,20 +347,21 @@ all_grow<- rows_update(all_grow, grow_updated_new_key, by = "subject_id", unmatc
 grow_no_new_key<-read.csv("GROW_general/grow_no_new_key.csv")  %>% 
   select(subject_id, new_key) #keep only subject ids and new keys but read in the whole table if you want to see comments 
 
-#link to nhdid when available  
+#link to nhdid when available and mdnr ids 
 mdnr_crosswalk<-read.csv("whole_database/mdnr_crosswalk.csv") %>% 
-  select(new_key, nhdid) %>% 
-  distinct(new_key, .keep_all = TRUE)
+  select(new_key, mdnrid, nhdid) 
 
 all_grow<- rows_update(all_grow, grow_no_new_key, by = "subject_id") %>% 
   mutate(age_group = ifelse(subject_id == 58746421, NA, age_group)) %>% #one update after making figure 
+  mutate(new_key = ifelse(lakename == "TAMARACK" & county == "GOGEBIC", '36-768', new_key), #update new keys that were incorrect
+         new_key = ifelse(lakename == "RANGER" & county == "OTSEGO", '69-45', new_key), 
+         new_key = ifelse(lakename == "STRINGLY" & county == "OAKLAND", '63-1702', new_key)) %>%
+        mutate(new_key = trimws(new_key)) %>% 
   left_join(mdnr_crosswalk) %>%
   mutate(filename1 = basename(url_front), #pull out the file name 
          filename2 = basename(url_back)) %>% 
-  select(-c("url_front", "url_back"))  
+  select(-c("url_front", "url_back", "new_key"))%>%    #remove urls (these are not permanent) remove new_keys (these are old keys)
+  relocate(subject_id, mdnrid, nhdid) #move identifiers to the front 
 
-write.csv(all_grow, "C:\\Users\\kingk42\\Desktop\\grow_data.csv", row.names = FALSE)
-write.csv(all_grow, "GROW_general/grow_qaqc_Feb2025.csv", row.names = FALSE)
-
-
-
+#write.csv(all_grow, "C:\\Users\\kingk42\\OneDrive - State of Michigan DTMB\\Desktop\\CHANGES data paper\\data_with_urls\\grow_data_Apr2025.csv", row.names = FALSE)
+#write.csv(all_grow, "GROW_general/grow_qaqc_Apr2025.csv", row.names = FALSE)
