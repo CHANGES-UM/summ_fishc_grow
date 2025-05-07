@@ -363,5 +363,4 @@ all_grow<- rows_update(all_grow, grow_no_new_key, by = "subject_id") %>%
   select(-c("url_front", "url_back", "new_key"))%>%    #remove urls (these are not permanent) remove new_keys (these are old keys)
   relocate(subject_id, mdnrid, nhdid) #move identifiers to the front 
 
-#write.csv(all_grow, "C:\\Users\\kingk42\\OneDrive - State of Michigan DTMB\\Desktop\\CHANGES data paper\\data_with_urls\\grow_data_Apr2025.csv", row.names = FALSE)
 #write.csv(all_grow, "GROW_general/grow_qaqc_Apr2025.csv", row.names = FALSE)

@@ -52,9 +52,11 @@ not_multi<-abund_long %>%
     filter(reviews > 1) %>% 
   select(-c(data.choice_count, reviews))
 ties<-read.csv("FISHc/FISHc_data/manual_reviews/fishc_abund_multi_review_kk.csv") %>% 
-  select(-c(comment))
+  select(-c(comment)) %>% 
+  drop_na(abund)
 abund_bad<-read.csv("FISHc/FISHc_data/manual_reviews/fishc_abund_review_cb.csv", na.strings = c("", "NA"))%>% 
-  select(-c(comments))
+  select(-c(comments))  %>% 
+  drop_na(abund)
 
 abundance_all<-rbind(not_multi, abund_bad, ties) 
 
@@ -140,15 +142,17 @@ other_abund<-read.csv("FISHc/FISHc_data/abundance_data/other_abund.csv") %>%
 
 #*combine everything back together 
 abundance_new<-rbind(not_high_abund, lmb_abund, blg_abund, cis_abund, perch_abund, wae_abund, other_abund) %>% 
-  drop_na(subject_id) #somehow got a bunch of extra blank rows 
+  drop_na(subject_id) %>% #somehow got a bunch of extra blank rows 
+  drop_na(abund) #several that did not have abundance
 
 #### text data - other species not listed from the choices #### 
-#somehow separate these out? - probably get rid of anything that only had 1 review- looks like these people just recorded everything 
+# get rid of anything that only had 1 review- looks like these people just recorded everything 
 abund_text<-read.csv("FISHc/FISHc_data/abundance_data/text_reducer_abundance.csv") %>%
   select(subject_id, 'data.number_views', 'data.consensus_text') %>% #don't need task names(split by category only)
   drop_na('data.number_views') %>% #drop rows that don't have anything 
-  select(-c(data.number_views)) %>% 
-  rename(fish_extras=data.consensus_text) %>% 
+  rename(data_number_views ='data.number_views', fish_extras=data.consensus_text) %>%
+  dplyr::filter(data_number_views > 1)  %>% #remove anything with only one person 
+  select(-c(data_number_views)) %>% 
   group_by(subject_id) %>%
   summarise_at(vars(-group_cols()), ~ toString(.[!is.na(.)])) %>%  #aggregate all sp from same card from dif rows into one row 
   left_join(urls)
@@ -158,8 +162,9 @@ abund_text<-read.csv("FISHc/FISHc_data/abundance_data/text_reducer_abundance.csv
 abund_text_dec<-read.csv("FISHc/FISHc_data/abundance_data/text_reducer_abund_dec.csv") %>%
   select(subject_id, 'data.number_views', 'data.consensus_text', 'URL.4', 'URL.8' ) %>% #don't need task names(split by category only)
   drop_na('data.number_views') %>% #drop rows that don't have anything 
-  select(-c(data.number_views)) %>% 
-  rename(fish_extras=data.consensus_text) %>% 
+  rename(data_number_views ='data.number_views', fish_extras=data.consensus_text) %>%
+  dplyr::filter(data_number_views > 1)  %>% #remove anything with only one person 
+   select(-c(data_number_views)) %>% 
   group_by(subject_id) %>%
   summarise_at(vars(-group_cols()), ~ toString(.[!is.na(.)])) %>%  #aggregate all sp from same card from dif rows into one row 
   rename(front = 'URL.4', back= 'URL.8')
@@ -208,43 +213,26 @@ fish_dat<-abundance_new %>%
   left_join(comments) 
 
 #* final join with extra fish text #### 
-abund_final<-full_join(fish_dat, abund_text_all)%>% 
-              mutate(across(2:56, ~ replace_na(.x, '0'))) #set the NAs for fish to 0s after the joins 
+abund_final<-full_join(fish_dat, abund_text_all, by="subject_id") %>% 
+  mutate(front = ifelse(is.na(front.x), front.y, front.x), 
+         back = ifelse(is.na(back.x), back.y, back.x)
+         ) %>% 
+  select(-c(front.x, front.y, back.x, back.y))
+         
 
+#check where species are NA 
+#fish_extra_check<-abund_final%>% 
+ # filter(is.na(bandedkillifishmenonakillifish))
+fish_extra_check<-read.csv("FISHc/FISHc_data/manual_reviews/fish_extra_check.csv") %>% 
+  mutate(across(-subject_id, as.character))
 
-write.csv(abund_final, "FISHc/FISHc_data/final_data/fishc_abund.csv", row.names = FALSE)
+#rows_update() modifies existing rows in fishc with new data from updated_new_key
+abund_final2<-rows_update(abund_final, fish_extra_check, by = "subject_id", unmatched = "ignore")%>% 
+  mutate(across(2:56, ~ replace_na(.x, '0'))) %>% #set the NAs for fish to 0s after checks
+  mutate(cisco = ifelse(subject_id == 59105756, 1, cisco), 
+         cisco = ifelse(subject_id ==59106134, 1, cisco), 
+        cisco = ifelse(subject_id ==59966533, 49, cisco)) # a few cards were missing cisco observations 
 
-
-#### FISH EXTRAS #### 
-#at some point could clean up the "fish_extras" (abund_text - see below for initial try)
-#if people type in the right format, then can sep by comma and then by dash 
-test<- abund_text %>% 
-  mutate(fish_extras = toupper(fish_extras)) %>% 
-  separate( col=fish_extras, c("sp1", "sp2", "sp3", "sp4", "sp5", "sp6", "sp7", "sp8", "sp9", "sp10", "sp11" ), sep = ",",  remove = FALSE) %>% 
-        separate(col=sp1, c("name_sp1", "abund_sp1"), sep = "-", extra = "merge") %>%
-  separate(col=sp2, c("name_sp2", "abund_sp2"), sep = "-", extra = "merge") %>%
-  separate(col=sp3, c("name_sp3", "abund_sp3"), sep = "-", extra = "merge") %>%
-  separate(col=sp4, c("name_sp4", "abund_sp4"), sep = "-", extra = "merge") %>%
-  separate(col=sp5, c("name_sp5", "abund_sp5"), sep = "-", extra = "merge") %>%
-  separate(col=sp6, c("name_sp6", "abund_sp6"), sep = "-", extra = "merge") %>%
-  separate(col=sp7, c("name_sp7", "abund_sp7"), sep = "-", extra = "merge") %>%
-  separate(col=sp8, c("name_sp8", "abund_sp8"), sep = "-", extra = "merge") %>%
-  separate(col=sp9, c("name_sp9", "abund_sp9"), sep = "-", extra = "merge") %>%
-  separate(col=sp10, c("name_sp10", "abund_sp10"), sep = "-", extra = "merge") %>%
-  separate(col=sp11, c("name_sp11", "abund_sp11"), sep = "-", extra = "merge") #%>% 
-#  select(-c(task, data.aligned_text, data.number_views, data.consensus_score, data.consensus_text, front, back))
-
-#note this doesnt exactly work because some species names have - in them. 
-#could try instead to just pull out the numbers using regex 
-
-#then can pivot longer again, with one sp column and one abund column (similar to what I did with gears)
-test2<-pivot_longer(test, #pivot back to longer so that each separate gear is on a new row 
-  cols = !subject_id,  #don't sep subject_id
-  names_to = c(".value", "species"), #note that .value means it will take first part for a column name and then the second part species after the _
-  names_sep = "_", 
-  values_drop_na = TRUE
-  )
-
-
+write.csv(abund_final2, "FISHc/FISHc_data/final_data/fishc_abund.csv", row.names = FALSE)
 
 

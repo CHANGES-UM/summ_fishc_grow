@@ -30,11 +30,27 @@ fish_wide$reviewers<-fish_wide$no_data + fish_wide$yes_data #add up the number o
 fish_wide$review<-ifelse(fish_wide$yes_data == fish_wide$no_data, 'Yes', "No") #if reviewers are split 
 
 ####fish info text_SUMM- extra fish species  ####
+unwanted_words <- c("none", "unspecified")
+pattern <- paste(unwanted_words, collapse = "|")
+my_list <- paste(my_list, collapse = "|")
+
 fish_extras<-read.csv("Lake_SUMM/SUMM_data/text_reducer_SUMM_fishinfo.csv") %>%
   select(subject_id, 'data.number_views', 'data.consensus_text') %>%
   drop_na('data.number_views') %>% 
   select(subject_id, 'data.consensus_text') %>%
-  rename(fish_extras = 'data.consensus_text')
+  rename(fish_extras = 'data.consensus_text') %>% 
+  mutate(fish_extras = gsub("[[:punct:]]", "", fish_extras ),  #remove punctuation 
+         fish_extras = tolower(fish_extras), #try to standardize
+         fish_extras = gsub(" ", "_", fish_extras))  %>%
+  filter(!grepl(pattern, fish_extras, ignore.case = TRUE)) #remove rows where volunteers recorded none or unspecified species 
+ 
+
+#compare fish extras to the columns that were already accounted for to decrease duplication
+my_list<-colnames(fish_wide[4:38])
+fish_extras$in_list <- fish_extras$fish_extras %in% my_list
+fish_extras<-fish_extras%>% 
+  filter(in_list == FALSE) %>%
+  select(-c("in_list"))
 
 #merge all of the extras into one row 
 comments <- aggregate(fish_extras[2], fish_extras[-2], 
@@ -47,7 +63,7 @@ fish_choices<-left_join(fish_wide, comments)
 fishinfo_bad<-filter(fish_choices, fish_choices$review == "Yes" | fish_choices$reviewers == 1)
 #write.csv(fishinfo_bad, "/Users/katelynking/Desktop/fish_for_review.csv", row.names = FALSE)
 fish_manual<-read.csv("Lake_SUMM/SUMM_data/manual_review_data/fish_for_review_kk.csv") %>% 
-  select(-c(front, back, comments, checked, review, reviewers)) %>%
+  select(-c(front, back, checked, comments,review, reviewers)) %>%
   mutate_all(as.character)
 
 fishinfo_good<-filter(fish_choices, fish_choices$review == "No" & fish_choices$reviewers != 1) %>% 
@@ -64,25 +80,14 @@ helperFunction <- function(x){
 fish_info <- fish_info %>% 
   select(-c(no_data, yes_data)) %>%
   mutate_at(c(2:36), as.numeric) %>% #target specific columns 
-  mutate_at(c(2:36),helperFunction)
-
-#write.csv(fish_info, 'Lake_SUMM/SUMM_data/clean_data/clean_fish_pres_abs_summ_cards.csv', row.names = FALSE)
-
-#### merge fish data with new_keys and comments and tags #### 
-fish<-read.csv('Lake_SUMM/SUMM_data/clean_data/clean_fish_pres_abs_summ_cards.csv') 
-
-fish_pres_absence<-left_join(dates, fish) %>%
-  left_join(new_keys)
-
-#reorder columns 
-fish_pres_absence <- fish_pres_absence[, c(1,48,47,46,2,3,4,5,6,7,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,
-                                           40,41,42,43,44,45,8,9)]
+  mutate_at(c(2:36),helperFunction) %>%
+  mutate(fish_extras = gsub(",", ";", fish_extras)) #change commas to ; so that it doesnt mess up csv 
 
 #remove subjects 63264926 (58687958), 63265573 (59071125), 63265689 (59071255),  and 63265642 (59071199) because they have 2 or 3 lakes on one card. 
-fish_pres_absence<-fish_pres_absence[!(fish_pres_absence$subject_id=="58687958" | fish_pres_absence$subject_id=="59071125" | fish_pres_absence$subject_id=="59071255" | fish_pres_absence$subject_id=="59071199"),]
+fish_pres_absence<-fish_info[!(fish_info$subject_id=="58687958" | fish_info$subject_id=="59071125" | fish_info$subject_id=="59071255" | fish_info$subject_id=="59071199"),]
 
 #write final dataset 
-write.csv(fish_pres_absence, 'Lake_SUMM/SUMM_data/clean_data/lake_summ_fish_pres_qaqc.csv', row.names = FALSE)
+write.csv(fish_pres_absence, 'Lake_SUMM/lake_summ_fish_pres_qaqc.csv', row.names = FALSE)
 
 #### December Data #### 
 #change all numbers to 0s and 1s 

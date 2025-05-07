@@ -10,43 +10,43 @@ library(sf)
 
 #### read in data ####
 
-points<-read.csv("whole_database/mdnr_latlons.csv") %>% 
-  distinct(new_key, .keep_all = TRUE) 
+points<-read.csv("whole_database/mdnr_crosswalk.csv") %>% 
+  select(mdnrid, lat_dd, long_dd)
 
-all_fishc<-read.csv("FISHc/FISHc_data/final_data/fishc_qaqc_Feb2025.csv")
-all_summ<-read.csv( "Lake_SUMM/summ_data_Feb2025.csv")
-all_grow<-read.csv("GROW_general/grow_qaqc_Feb2025.csv")
+all_fishc<-read.csv("FISHc/FISHc_data/final_data/fishc_qaqc_Apr2025.csv")
+all_summ<-read.csv( "Lake_SUMM/summ_data_Apr2025.csv")
+all_grow<-read.csv("GROW_general/grow_qaqc_Apr2025.csv")
 
 fish_mapping<-all_fishc %>% 
                 left_join(points) %>% 
-  distinct(new_key, .keep_all = TRUE) %>% 
-  dplyr::select(new_key, long_dd, lat_dd)
+  distinct(mdnrid, .keep_all = TRUE) %>% 
+  dplyr::select(mdnrid, long_dd, lat_dd)
 
 grow_mapping<-all_grow %>% 
   left_join(points) %>% 
-  distinct(new_key, .keep_all = TRUE) %>% 
-  dplyr::select(new_key, long_dd, lat_dd)
+  distinct(mdnrid, .keep_all = TRUE) %>% 
+  dplyr::select(mdnrid, long_dd, lat_dd)
 
 summ_mapping<-all_summ %>% 
   left_join(points) %>% 
-  distinct(new_key, .keep_all = TRUE) %>% 
-  dplyr::select(new_key, long_dd, lat_dd)
+  distinct(mdnrid, .keep_all = TRUE) %>% 
+  dplyr::select(mdnrid, long_dd, lat_dd)
 
-#* calculate what don't we have new_keys for ####
+#* calculate what don't we have mdnrid for ####
 n_distinct(all_summ$subject_id) 
 n_distinct(all_grow$subject_id) 
 n_distinct(all_fishc$subject_id) 
-summ_nolake<-filter(all_summ, is.na(new_key)) %>% #12 cards left unmatched 
-  select(new_key, lakename, county)
-fishc_nolake<-filter(all_fishc, is.na(new_key)) %>% #28 cards left unmatched 
-  select(new_key, lakename, county)
+summ_nolake<-filter(all_summ, is.na(mdnrid)) %>% #12 cards left unmatched 
+  select(mdnrid, lakename, county)
+fishc_nolake<-filter(all_fishc, is.na(mdnrid)) %>% #29 cards left unmatched 
+  select(mdnrid, lakename, county)
 grow_nolake<-all_grow %>% distinct(subject_id, .keep_all = TRUE) %>%
-  filter(is.na(new_key)) %>% #36 cards left unmatched 
-  select(new_key, lakename, county)
-(12 + 28+ 36) /(13444 + 4134 + 1876) *100 # <1% of the cards 0.4%
+  filter(is.na(mdnrid)) %>% #36 cards left unmatched 
+  select(mdnrid, lakename, county)
+(12 + 29+ 36) /(13410 + 4134 + 1875) *100 # <1% of the cards 0.4%
 
 all<-rbind(summ_nolake, fishc_nolake, grow_nolake)
-n_distinct(all$lakename, all$county) #51 lakes 
+n_distinct(all$lakename, all$county) #52 lakes 
 
 #### map of all lakes matched  Figure 2#### 
 #read in MI map
@@ -100,7 +100,7 @@ ggsave("Figures/lake_distribution.png",lake_map, bg='#ffffff',
          (panel.background = element_blank()))
 )
 
-summ_year<-all_summ%>% 
+(summ_year<-all_summ%>% 
   ggplot(aes(x = begin_date_year)) + 
   geom_histogram(bins = 70, color = "black", fill = "lightblue") + 
   xlab("sample year")  + ylab("number of cards") + 
@@ -108,8 +108,9 @@ summ_year<-all_summ%>%
   theme( panel.background = element_rect(colour = "black"), 
          (panel.background = element_blank()))
 
+)
 
-grow_year<-all_grow%>% 
+(grow_year<-all_grow%>% 
   group_by(subject_id) %>%
   ggplot(aes(x = begin_date_year)) + 
   geom_histogram(bins = 70, color = "black", fill = "lightblue") + 
@@ -118,7 +119,7 @@ grow_year<-all_grow%>%
   theme( panel.background = element_rect(colour = "black"), 
          (panel.background = element_blank()))
 
-
+)
 
 year_plot<-cowplot::plot_grid(summ_year, fish_year, grow_year, nrow=1, labels = c('a', 'b', 'c'))
 
@@ -132,12 +133,12 @@ range(all_grow$begin_date_year, na.rm = TRUE)
 range(all_fishc$begin_date_year, na.rm = TRUE)
 
 ####common fish species on records Figure 5 #### 
-fish_sp<-dplyr::select(all_fishc,subject_id, begin_date_year, banded_killifish:yellow_bullhead)
+fish_sp<-dplyr::select(all_fishc,subject_id, begin_date_year, banded_killifish:yellow_perch)
 fish_sp[ , 3:57 ][ fish_sp[ , 3:57 ] > 0 ] <- 1 #set data to 1s and 0s 
 fish_sp[, 3:57 ] <- sapply(fish_sp[, 3:57 ],as.numeric)
 
 fishes<-fish_sp %>% 
-pivot_longer(cols =  banded_killifish:yellow_bullhead,
+pivot_longer(cols =  banded_killifish:yellow_perch,
              names_to = "species",
              values_to = "pres") %>% 
   drop_na(pres)
@@ -149,7 +150,7 @@ summary_sp<-fishes %>%
 summary_sp_year<-fishes %>%
   group_by(species, begin_date_year) %>%
   summarize(Freq=sum(pres)) %>% 
-  mutate(decade = case_when( # if ~ then
+  mutate(decade = as.factor(case_when( # if ~ then
     begin_date_year >=1920 & begin_date_year<1930 ~ 1920,
     begin_date_year >=1930 & begin_date_year<1940 ~ 1930,
     begin_date_year >=1940 & begin_date_year<1950 ~ 1940,
@@ -158,7 +159,8 @@ summary_sp_year<-fishes %>%
     begin_date_year >=1970 & begin_date_year<1980 ~ 1970,
     begin_date_year >=1980 & begin_date_year<1990 ~ 1980,
     begin_date_year >=1990 & begin_date_year<2000 ~ 1990)
-  )
+  )) %>%
+  drop_na(decade)
 
 #* 5 most frequent
 (most_freq<-summary_sp%>% 
@@ -176,17 +178,23 @@ summary_sp_year<-fishes %>%
   
 )
 
-#maybe try stacked
-sp_year_plot<-summary_sp_year%>% 
+#try stacked
+
+# The palette with black:
+cbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+
+(sp_year_plot<-summary_sp_year%>% 
   filter(species == 'bluegill' | species == 'northern_pike' | species ==  'yellow_perch' | species == 'pumpkinseed'  | species == 'white_sucker') %>% 
   ggplot(aes(fill =decade, x = species, y= Freq)) + 
   geom_bar(position = "stack", stat= "identity") + 
+    scale_fill_manual(values=cbPalette) + 
   xlab("species") + ylab("Frequency") +
   theme(axis.text.x = element_text(angle = 45, vjust = 0.5)) + 
   theme_bw() +
   theme( panel.background = element_rect(colour = "black"), 
          (panel.background = element_blank()))
-
+)
 
 ggsave("Figures/sp_year_plot.png",sp_year_plot,
        width = 8,
@@ -238,15 +246,15 @@ ggsave("Figures/grow_figure.png",grow_figure,
 #### SUMM CARD Figures 4####
 summ_variable_maps<-all_summ %>% 
   left_join(points) %>% 
-  distinct(new_key, .keep_all = TRUE) %>% 
-  dplyr::select(new_key, long_dd, lat_dd, begin_date_month, resorts_min_n, liveries_min_n, cottages_min_n, hotels_homes_min_n, fishing_intensity_summer, temp_surface_min_c) %>% 
+  distinct(mdnrid, .keep_all = TRUE) %>% 
+  dplyr::select(mdnrid, long_dd, lat_dd, begin_date_month, resorts_min_n, liveries_min_n, cottages_min_n, hotels_homes_min_n, fishing_intensity_summer, temp_surface_min_c) %>% 
   mutate(shoreline_all = resorts_min_n + liveries_min_n + cottages_min_n + hotels_homes_min_n
 )
 
 #*fishing intensity  ####
 summ_variable_maps$fishing_intensity_summer <- factor(summ_variable_maps$fishing_intensity_summer, levels = c("heavy", "medium", "light", "none"))
 
-fishing<-ggplot() +
+(fishing<-ggplot() +
   geom_sf(data=MI, aes(), fill = "white") +
   geom_point(data=filter(summ_variable_maps, !is.na(fishing_intensity_summer)), 
              aes(x = long_dd, y = lat_dd, colour = c(fishing_intensity_summer)), alpha = 0.8) +  
@@ -256,7 +264,7 @@ fishing<-ggplot() +
   theme_void() +
   theme( panel.background = element_rect(colour = "black")) + 
   theme(legend.position = c(0.25, 0.25))
-
+)
 
 #* TEMP ####
 #add SEASON  

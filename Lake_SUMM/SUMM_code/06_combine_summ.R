@@ -1,8 +1,11 @@
 ### Combine summary cards and QA QC  #### 
 library(tidyr)
+library(dplyr)
+library(stringr)
+library(rqdatatable)
 
 
-#* read in general lakes data ####
+#* read dplyr#* read in general lakes data ####
 #subjects that were removed from workflows for one issue or another and should not be included
 problem_subjects <- read.csv('whole_database/AFDMF_problem_subjects.csv')
 
@@ -27,10 +30,14 @@ lake_match2<-read.csv("whole_database/metadatabase_lake_match_20Apr23.csv") %>%
   rename(subject_id = subject_ids, new_key = New_Keys)
 
 #* read in summary card data ####  
-fish_pres<-read.csv("Lake_SUMM/lake_summ_fish_pres_qaqc.csv") %>%
-  select(-c(new_key, lakename, county, begin_date_day, begin_date_month, begin_date_year, end_date_day, end_date_month, end_date_year, url_front, url_back))
+fish_pres<-read.csv("Lake_SUMM/lake_summ_fish_pres_qaqc.csv") 
 fish_pres_dec<-read.csv("Lake_SUMM/lake_summ_fish_pres_qaqc_dec.csv")
-fish_pres_all<-gtools::smartbind(fish_pres, fish_pres_dec)
+fish_pres_all<-gtools::smartbind(fish_pres, fish_pres_dec) %>% 
+  select(
+    1,                                   # First column
+    sort(names(.)[2:(ncol(.) - 1)]),     # Sorted middle columns alphabetically 
+    ncol(.)                              # Last column
+  )
 summ_new<-read.csv("Lake_SUMM/lake_summary_qaqc.csv")  
 summ_old<-read.csv("Lake_SUMM/lake_summary_older_cards_qaqc.csv") %>% 
   rename(lake_area_min_ha = lake_area_ha, methylorange_alk_min_ppm=alkalinity_min_ppm, methylorange_alk_max_ppm=alkalinity_max_ppm, do_above_thermo_min_ppm = do_surface_ppm, do_in_thermo_min_ppm = do_thermo_ppm, do_below_thermo_min_ppm = do_below_thermo_ppm,  url_front = front, url_back = back) #rename some columns to join with newer cards 
@@ -114,24 +121,27 @@ summ_no_new_key<-read.csv("Lake_SUMM/SUMM_data/summ_no_new_key.csv") %>%
 
 #link to nhdid when available  
 mdnr_crosswalk<-read.csv("whole_database/mdnr_crosswalk.csv") %>% 
-  select(new_key, nhdid) %>% 
-  distinct(new_key, .keep_all = TRUE)
+  select(new_key, mdnrid, nhdid) 
 
 all_summ<- rows_update(all_summ, summ_no_new_key, by = "subject_id") %>% 
-  filter((begin_date_year > 1915 | is.na(begin_date_year)) & subject_id != 58688648 & subject_id != 58688666 & subject_id != 58687292) %>% #remove cards that are referencing older dates and more dups and not summary cards 
+  filter((begin_date_year > 1915 | is.na(begin_date_year)) & subject_id != 58688648 & subject_id != 58688666 & subject_id != 58687292 & subject_id != 59106824) %>% #remove cards that are referencing older dates and more dups and not summary cards 
   mutate(lakename = ifelse(lakename == "SUMM", "CHARLEVOIX", lakename)) %>% #update lakename that is still wrong 
+  mutate(new_key = ifelse(lakename == "RICES" & county == "BENZIE", '10-17', new_key), #update new keys that were incorrect
+         new_key = ifelse(lakename == "SILVER" & county == "LUCE", '48-197', new_key), 
+         new_key = ifelse(lakename == "HASTINGSLITTLE" & county == "HILLSDALE", '30-77', new_key), 
+         new_key = ifelse(lakename == "ROUND" & county == "BARRY", '8-605', new_key)) %>%
   rename(bullhead_species=bullhead_not_specified, 
-         lake_herring = cisco_herring_whitefish, 
+         cisco = cisco_herring_whitefish, 
          bowfin = bowfin_dogfish,
          ) %>% 
   mutate(blacknose_shiner = ifelse(blacknose_minnow >0, 1, blacknose_shiner)) %>% #combine these species just to blacknose_shiner
   select(-c(blacknose_minnow)) %>%
-  left_join(mdnr_crosswalk) %>%
+ left_join(mdnr_crosswalk) %>%
   mutate(filename1 = basename(url_front), #pull out the file name 
          filename2 = basename(url_back)) %>% 
-  select(-c("url_front", "url_back"))  
+  select(-c("url_front", "url_back", "new_key")) %>%
+  relocate(subject_id, mdnrid, nhdid) #move identifiers to the front 
 
- 
 
-write.csv(all_summ, "C:\\Users\\kingk42\\Desktop\\summ_data.csv", row.names = FALSE)
-write.csv(all_summ, "Lake_SUMM/summ_data_Feb2025.csv", row.names = FALSE)
+
+#write.csv(all_summ, "Lake_SUMM/summ_data_Apr2025.csv", row.names = FALSE)
