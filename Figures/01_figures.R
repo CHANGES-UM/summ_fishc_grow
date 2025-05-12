@@ -16,6 +16,9 @@ points<-read.csv("whole_database/mdnr_crosswalk.csv") %>%
 all_fishc<-read.csv("FISHc/FISHc_data/final_data/fishc_qaqc_Apr2025.csv")
 all_summ<-read.csv( "Lake_SUMM/summ_data_Apr2025.csv")
 all_grow<-read.csv("GROW_general/grow_qaqc_Apr2025.csv")
+n_distinct(all_fishc$mdnrid) 
+n_distinct(all_summ$mdnrid) 
+n_distinct(all_grow$mdnrid) 
 
 fish_mapping<-all_fishc %>% 
                 left_join(points) %>% 
@@ -58,7 +61,7 @@ plot(MI)
 # plot
 (fish_map<-ggplot() +
     geom_sf(data=MI, aes(), fill = "white") + 
-    geom_point(data=fish_mapping, aes(x = long_dd, y = lat_dd ), size=0.75) +
+    geom_point(data=fish_mapping, aes(x = long_dd, y = lat_dd ), size=0.75, shape = 21, fill= "orange") + 
     theme_void() +
     theme( panel.background = element_rect(colour = "black"))
 )
@@ -66,7 +69,7 @@ plot(MI)
 # plot
 (grow_map<-ggplot() +
     geom_sf(data=MI, aes(), fill = "white") + 
-    geom_point(data=grow_mapping, aes(x = long_dd, y = lat_dd ), size=0.75) +
+    geom_point(data=grow_mapping, aes(x = long_dd, y = lat_dd ), size=0.75, shape = 21, fill= "purple") +
     theme_void() +
     theme( panel.background = element_rect(colour = "black"))
 )
@@ -74,7 +77,7 @@ plot(MI)
 # plot
 (summ_map<-ggplot() +
     geom_sf(data=MI, aes(), fill = "white") + 
-    geom_point(data=summ_mapping, aes(x = long_dd, y = lat_dd), size=0.75) +
+    geom_point(data=summ_mapping, aes(x = long_dd, y = lat_dd), size=0.75, shape = 21, fill= "lightblue") +
     theme_void() +
     theme( panel.background = element_rect(colour = "black"), 
            (panel.background = element_blank()))
