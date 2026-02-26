@@ -94,23 +94,27 @@ ggsave("Figures/lake_distribution.png",lake_map, bg='#ffffff',
 
 
 #### freq of years figure 3 #### 
-(fish_year<-all_fishc%>% 
-  ggplot(aes(x = begin_date_year)) + 
-  geom_histogram(bins = 70, color = "black", fill = "lightblue") + 
-  xlab("sample year") + ylab("number of cards") + 
-   theme_bw() +
-  theme( panel.background = element_rect(colour = "black"), 
-         (panel.background = element_blank()))
-)
+
 
 (summ_year<-all_summ%>% 
   ggplot(aes(x = begin_date_year)) + 
   geom_histogram(bins = 70, color = "black", fill = "lightblue") + 
   xlab("sample year")  + ylab("number of cards") + 
+  scale_x_continuous(breaks = seq(1920, 2000, by = 20), limits = c(1920, 2000)) +
   theme_bw() +
   theme( panel.background = element_rect(colour = "black"), 
          (panel.background = element_blank()))
 
+)
+
+(fish_year<-all_fishc%>% 
+    ggplot(aes(x = begin_date_year)) + 
+    geom_histogram(bins = 70, color = "black", fill = "lightblue") + 
+    xlab("sample year") + ylab("number of cards") + 
+    scale_x_continuous(breaks = seq(1920, 2000, by = 20), limits = c(1920, 2000)) +
+    theme_bw() +
+    theme( panel.background = element_rect(colour = "black"), 
+           (panel.background = element_blank()))
 )
 
 (grow_year<-all_grow%>% 
@@ -118,6 +122,7 @@ ggsave("Figures/lake_distribution.png",lake_map, bg='#ffffff',
   ggplot(aes(x = begin_date_year)) + 
   geom_histogram(bins = 70, color = "black", fill = "lightblue") + 
   xlab("sample year")  + ylab("number of cards") +
+    scale_x_continuous(breaks = seq(1940, 2000, by = 20), limits = c(1940, 2000)) +
   theme_bw() +
   theme( panel.background = element_rect(colour = "black"), 
          (panel.background = element_blank()))
@@ -209,7 +214,7 @@ ggsave("Figures/sp_year_plot.png",sp_year_plot,
 
 #select species with the most data, >200 obs
 top_grow<-filter(all_grow, species == 'black_crappie' | species == 'bluegill' | species == 'brook_trout' |
-                   species == 'brown_trout' | species == 'lake_herring' | species == 'white_sucker' | 
+                   species == 'brown_trout' | species == 'cisco' | species == 'white_sucker' | 
                    species == 'lake_trout' | species == 'largemouth_bass' | species == 'northern_pike'| 
                    species == 'pumpkinseed' | species == 'rainbow_trout' | species == 'rock_bass' | 
                    species == 'smallmouth_bass' | species == 'tiger_muskie' | species == 'walleye' |species == 'yellow_perch') %>% 
@@ -219,7 +224,7 @@ top_grow<-filter(all_grow, species == 'black_crappie' | species == 'bluegill' | 
                                   species == 'bluegill' ~ "bluegill n=10357", 
                                   species == 'brook_trout' ~ "brook trout n=293",
                                   species == 'brown_trout' ~ "brown trout n=395",
-                                  species == 'lake_herring' ~ "lake herring n=526", 
+                                  species == 'cisco' ~ "cisco n=526", 
                                   species == 'white_sucker' ~ "white sucker n=464",
                                     species == 'lake_trout' ~ "lake trout n=236", 
                                     species == 'largemouth_bass' ~"largemouth bass n=7458",
